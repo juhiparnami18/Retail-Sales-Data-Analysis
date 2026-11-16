@@ -1,0 +1,1504 @@
+order_id,order_date,category,product,quantity,unit_price,discount_rate,revenue,cost,region,sales_channel,profit
+ORD00001,2025-07-07,Stationery,Planner,3,83.32,0.15,212.47,153.91,North,Marketplace,58.56
+ORD00002,2025-12-05,Home,Desk Lamp,1,1343.0,0.1,1208.7,648.58,Central,Marketplace,560.12
+ORD00003,2025-07-01,Stationery,Notebook,4,450.84,0.0,1803.34,1156.57,North,In-store,646.77
+ORD00004,2025-09-29,Stationery,Notebook,5,210.41,0.0,1052.06,582.61,West,In-store,469.45
+ORD00005,2025-11-04,Electronics,Headphones,4,1783.31,0.15,6063.27,4421.57,South,Marketplace,1641.7
+ORD00006,2025-02-21,Stationery,Pen Set,4,401.99,0.1,1447.15,1046.27,East,In-store,400.88
+ORD00007,2025-07-26,Home,Water Bottle,1,1119.18,0.15,951.31,651.67,East,Online,299.64
+ORD00008,2025-01-12,Home,Storage Box,4,461.15,0.0,1844.59,987.15,Central,Online,857.44
+ORD00009,2025-05-03,Electronics,Keyboard,4,2148.95,0.15,7306.42,4116.53,North,Online,3189.89
+ORD00010,2025-06-18,Stationery,Notebook,4,110.06,0.05,418.24,258.92,South,Online,159.32
+ORD00011,2025-10-06,Stationery,Planner,2,482.47,0.1,868.45,511.63,Central,Online,356.82
+ORD00012,2025-06-14,Stationery,Markers,4,455.2,0.0,1820.79,1091.65,Central,In-store,729.14
+ORD00013,2025-08-18,Electronics,Keyboard,5,2763.48,0.1,12435.68,8567.69,North,Marketplace,3867.99
+ORD00014,2025-06-30,Electronics,Keyboard,1,1456.08,0.0,1456.08,1107.39,Central,In-store,348.69
+ORD00015,2025-09-02,Home,Storage Box,3,1539.91,0.0,4619.73,2986.8,East,In-store,1632.93
+ORD00016,2025-06-22,Stationery,Markers,3,279.51,0.0,838.53,616.18,North,Marketplace,222.35
+ORD00017,2025-04-28,Electronics,Keyboard,3,781.16,0.1,2109.12,1518.25,North,In-store,590.87
+ORD00018,2025-01-14,Electronics,USB Hub,2,2142.3,0.0,4284.6,3289.52,West,Online,995.08
+ORD00019,2025-02-03,Home,Cushion,2,388.68,0.2,621.89,467.56,West,Marketplace,154.33
+ORD00020,2025-07-09,Fitness,Skipping Rope,1,797.85,0.0,797.85,569.8,South,Online,228.05
+ORD00021,2025-01-17,Fitness,Skipping Rope,2,486.83,0.1,876.29,654.93,North,Online,221.36
+ORD00022,2025-12-21,Stationery,Pen Set,2,46.41,0.0,92.82,64.62,Central,Online,28.2
+ORD00023,2025-06-08,Home,Cushion,4,439.67,0.1,1582.83,877.01,,In-store,705.82
+ORD00024,2025-04-20,Home,Cushion,5,1111.15,0.2,4444.61,2339.92,East,In-store,2104.69
+ORD00025,2025-06-07,Stationery,Markers,1,484.47,0.2,387.57,282.59,East,In-store,104.98
+ORD00026,2025-02-09,Electronics,USB Hub,4,2979.76,0.1,10727.13,7998.28,West,In-store,2728.85
+ORD00027,2025-12-30,Home,Water Bottle,2,1095.3,0.0,2190.6,1273.9,West,Marketplace,916.7
+ORD00028,2025-01-25,Electronics,USB Hub,5,2263.02,0.0,11315.11,8593.29,East,Online,2721.82
+ORD00029,2025-07-08,Electronics,Headphones,1,802.24,0.0,802.24,540.47,West,Marketplace,261.77
+ORD00030,2025-07-04,Home,Desk Lamp,5,1384.14,0.0,6920.7,4047.51,West,In-store,2873.19
+ORD00031,2025-09-09,Home,Desk Lamp,1,909.44,0.0,909.44,691.59,North,Marketplace,217.85
+ORD00032,2025-12-24,Fitness,Skipping Rope,2,1446.39,0.0,2892.79,1907.44,South,In-store,985.35
+ORD00033,2025-08-09,Fitness,Skipping Rope,3,423.63,0.05,1207.34,758.68,South,In-store,448.66
+ORD00034,2025-04-30,Home,Desk Lamp,4,1144.33,0.2,3661.85,2362.03,West,Online,1299.82
+ORD00035,2025-01-13,Home,Cushion,5,1316.37,0.0,6581.84,4680.16,South,In-store,1901.68
+ORD00036,2025-02-18,Fitness,Shaker Bottle,5,335.19,0.2,1340.76,745.1,Central,Marketplace,595.66
+ORD00037,2025-07-09,Fitness,Resistance Band,3,605.41,0.1,1634.62,890.4,West,Online,744.22
+ORD00038,2025-07-28,Home,Water Bottle,1,907.82,0.05,862.43,582.91,North,Marketplace,279.52
+ORD00039,2025-09-27,Electronics,USB Hub,1,717.51,0.1,645.76,391.81,Central,Marketplace,253.95
+ORD00040,2025-05-13,Electronics,USB Hub,4,1409.04,0.05,5354.36,3317.9,North,Marketplace,2036.46
+ORD00041,2025-06-04,Home,Cushion,5,845.09,0.1,3802.89,2918.0,North,Online,884.89
+ORD00042,2025-02-14,Stationery,Markers,1,45.66,0.15,38.81,23.16,Central,In-store,15.65
+ORD00043,2025-10-11,Home,Water Bottle,2,1282.88,0.15,2180.89,1295.05,Central,Online,885.84
+ORD00044,2025-08-31,Fitness,Yoga Mat,1,246.4,0.0,246.4,137.29,Central,Marketplace,109.11
+ORD00045,2025-12-18,Electronics,Wireless Mouse,5,2451.62,0.1,11032.29,8035.76,South,Online,2996.53
+ORD00046,2025-10-20,Electronics,USB Hub,4,3279.78,0.0,13119.1,7510.2,North,Online,5608.9
+ORD00047,2025-02-06,Home,Storage Box,4,1384.14,0.0,5536.56,3268.77,West,In-store,2267.79
+ORD00048,2025-01-20,Stationery,Markers,3,446.71,0.0,1340.12,728.82,West,Online,611.3
+ORD00049,2025-06-02,Fitness,Shaker Bottle,3,432.21,0.2,1037.3,620.67,East,In-store,416.63
+ORD00050,2025-12-10,Stationery,Planner,3,225.86,0.0,677.57,375.96,Central,Online,301.61
+ORD00051,2025-08-08,Home,Storage Box,3,1070.21,0.0,3210.64,2160.63,South,Marketplace,1050.01
+ORD00052,2025-06-23,Home,Water Bottle,3,980.06,0.1,2646.17,1824.89,West,Online,821.28
+ORD00053,2025-02-16,Stationery,Pen Set,3,205.9,0.1,555.94,417.21,Central,Marketplace,138.73
+ORD00054,2025-10-19,Home,Storage Box,2,1364.2,0.0,2728.41,2016.07,Central,Online,712.34
+ORD00055,2025-06-01,Electronics,Headphones,2,977.63,0.15,1661.98,1234.36,South,Marketplace,427.62
+ORD00056,2025-02-13,Stationery,Notebook,4,497.91,0.0,1991.65,1391.75,North,Marketplace,599.9
+ORD00057,2025-12-02,Home,Cushion,4,453.13,0.0,1812.53,1336.63,Central,Marketplace,475.9
+ORD00058,2025-12-28,Fitness,Shaker Bottle,5,328.08,0.15,1394.34,882.31,East,In-store,512.03
+ORD00059,2025-09-21,Electronics,Keyboard,1,3216.67,0.05,3055.83,2054.97,East,Online,1000.86
+ORD00060,2025-11-04,Electronics,Wireless Mouse,5,2394.65,0.0,11973.23,7367.35,West,In-store,4605.88
+ORD00061,2025-02-13,Home,Cushion,5,1264.51,0.2,5058.04,3402.3,Central,In-store,1655.74
+ORD00062,2025-07-13,Home,Desk Lamp,5,727.9,0.0,3639.51,2213.2,South,Online,1426.31
+ORD00063,2025-07-11,Electronics,Headphones,5,1817.03,0.0,9085.16,6384.95,West,Marketplace,2700.21
+ORD00064,2025-06-24,Stationery,Markers,5,371.52,0.15,1578.96,1176.91,North,Online,402.05
+ORD00065,2025-12-21,Stationery,Markers,3,486.11,0.0,1458.34,1036.55,West,In-store,421.79
+ORD00066,2025-01-15,Electronics,Keyboard,2,2820.9,0.2,4513.43,2829.96,,Marketplace,1683.47
+ORD00067,2025-05-15,Electronics,Wireless Mouse,3,2896.28,0.05,8254.4,4396.8,North,Marketplace,3857.6
+ORD00068,2025-10-10,Stationery,Planner,4,408.4,0.0,1633.6,1113.61,South,Marketplace,519.99
+ORD00069,2025-06-01,Electronics,USB Hub,3,2515.73,0.1,6792.46,3951.79,Central,In-store,2840.67
+ORD00070,2025-04-20,Fitness,Resistance Band,5,1618.49,0.0,8092.46,4386.53,West,In-store,3705.93
+ORD00071,2025-11-09,Stationery,Pen Set,5,227.65,0.1,1024.44,798.42,West,Marketplace,226.02
+ORD00072,2025-12-01,Home,Storage Box,3,344.83,0.0,1034.5,542.69,South,In-store,491.81
+ORD00073,2025-05-22,Stationery,Markers,2,385.9,0.0,771.81,581.34,South,In-store,190.47
+ORD00074,2025-07-13,Fitness,Resistance Band,2,679.01,0.0,1358.03,820.04,North,Online,537.99
+ORD00075,2025-08-03,Fitness,Yoga Mat,2,901.42,0.05,1712.69,1333.54,West,Online,379.15
+ORD00076,2025-10-15,Fitness,Skipping Rope,2,1244.68,0.2,1991.48,1301.05,Central,In-store,690.43
+ORD00077,2025-10-16,Electronics,USB Hub,5,764.16,0.05,3629.75,2374.52,South,Online,1255.23
+ORD00078,2025-05-21,Electronics,Wireless Mouse,4,634.61,0.05,2411.52,1515.2,North,Online,896.32
+ORD00079,2025-06-20,Electronics,Keyboard,5,453.76,0.05,2155.36,1558.22,Central,In-store,597.14
+ORD00080,2025-03-30,Home,Desk Lamp,3,1140.72,0.2,2737.74,1458.2,East,In-store,1279.54
+ORD00081,2025-02-26,Stationery,Notebook,1,462.66,0.0,462.66,244.35,North,Marketplace,218.31
+ORD00082,2025-07-27,Electronics,Headphones,1,2250.1,0.1,2025.09,1138.74,Central,Marketplace,886.35
+ORD00083,2025-02-24,Fitness,Resistance Band,2,1775.44,0.05,3373.33,2467.33,South,In-store,906.0
+ORD00084,2025-03-20,Stationery,Markers,2,75.93,0.0,151.86,79.72,,Online,72.14
+ORD00085,2025-09-02,Stationery,Markers,4,449.41,0.0,1797.64,1001.94,West,Online,795.7
+ORD00086,2025-12-28,Home,Water Bottle,1,174.04,0.0,174.04,131.1,North,Marketplace,42.94
+ORD00087,2025-03-11,Home,Water Bottle,4,223.25,0.1,803.71,592.67,North,Online,211.04
+ORD00088,2025-11-15,Electronics,Headphones,5,1223.68,0.1,5506.55,3902.49,West,In-store,1604.06
+ORD00089,2025-12-09,Stationery,Planner,5,45.74,0.1,205.81,128.85,North,Marketplace,76.96
+ORD00090,2025-09-07,Home,Cushion,1,1544.25,0.15,1312.61,994.0,South,Online,318.61
+ORD00091,2025-12-13,Home,Cushion,4,699.63,0.1,2518.66,1822.43,East,In-store,696.23
+ORD00092,2025-11-12,Fitness,Yoga Mat,4,1389.76,0.0,5559.04,4306.02,Central,In-store,1253.02
+ORD00093,2025-07-30,Stationery,Markers,5,320.02,0.05,1520.1,1028.29,Central,In-store,491.81
+ORD00094,2025-05-18,Electronics,Keyboard,2,1652.03,0.0,3304.05,2538.41,West,Online,765.64
+ORD00095,2025-06-15,Electronics,Keyboard,4,3137.16,0.1,11293.78,7248.22,South,Online,4045.56
+ORD00096,2025-12-17,Home,Water Bottle,1,868.48,0.0,868.48,624.31,South,Marketplace,244.17
+ORD00097,2025-06-05,Fitness,Yoga Mat,5,420.47,0.0,2102.35,1395.44,North,Marketplace,706.91
+ORD00098,2025-07-17,Stationery,Markers,3,113.74,0.1,307.11,218.4,West,Online,88.71
+ORD00099,2025-09-23,Home,Cushion,3,1269.91,0.0,3809.74,2868.7,North,In-store,941.04
+ORD00100,2025-03-07,Fitness,Resistance Band,4,1336.39,0.15,4543.73,3395.94,West,In-store,1147.79
+ORD00101,2025-04-14,Home,Storage Box,2,383.82,0.15,652.49,427.11,East,In-store,225.38
+ORD00102,2025-06-08,Home,Storage Box,5,332.21,0.2,1328.85,747.52,South,In-store,581.33
+ORD00103,2025-12-21,Electronics,Wireless Mouse,2,541.67,0.1,975.0,624.88,East,In-store,350.12
+ORD00104,2025-12-27,Electronics,Headphones,5,2945.84,0.2,11783.36,7173.25,East,Online,4610.11
+ORD00105,2025-04-15,Home,Water Bottle,4,1238.72,0.2,3963.89,2512.62,West,Marketplace,1451.27
+ORD00106,2025-04-13,Fitness,Yoga Mat,2,443.72,0.1,798.7,496.92,North,Marketplace,301.78
+ORD00107,2025-07-22,Home,Desk Lamp,4,1106.93,0.2,3542.17,2157.56,North,Online,1384.61
+ORD00108,2025-01-15,Fitness,Shaker Bottle,3,1786.89,0.1,4824.61,3336.69,North,Online,1487.92
+ORD00109,2025-05-01,Fitness,Shaker Bottle,2,1351.65,0.1,2432.97,1838.94,East,Online,594.03
+ORD00110,2025-05-29,Home,Storage Box,4,332.42,0.1,1196.71,828.55,South,Online,368.16
+ORD00111,2025-10-07,Home,Cushion,1,1397.91,0.0,1397.91,826.92,North,Online,570.99
+ORD00112,2025-11-29,Stationery,Pen Set,5,362.64,0.1,1631.88,956.82,South,In-store,675.06
+ORD00113,2025-05-13,Home,Storage Box,5,1143.87,0.15,4861.45,3299.27,East,Online,1562.18
+ORD00114,2025-04-28,Fitness,Skipping Rope,2,734.58,0.0,1469.16,1112.59,Central,Marketplace,356.57
+ORD00115,2025-08-10,Fitness,Skipping Rope,5,968.97,0.05,4602.62,2680.84,West,In-store,1921.78
+ORD00116,2025-08-02,Electronics,Keyboard,3,1700.45,0.0,5101.34,2662.65,North,,2438.69
+ORD00117,2025-12-12,Stationery,Notebook,5,93.22,0.2,372.9,212.58,North,Online,160.32
+ORD00118,2025-12-07,Stationery,Pen Set,5,103.48,0.0,517.39,388.07,South,In-store,129.32
+ORD00119,2025-01-01,Electronics,Headphones,5,987.89,0.1,4445.49,3066.05,Central,Online,1379.44
+ORD00120,2025-02-04,Home,Cushion,1,1566.16,0.05,1487.85,793.57,South,Marketplace,694.28
+ORD00121,2025-03-03,Home,Desk Lamp,4,1340.78,0.1,4826.82,3515.67,East,Online,1311.15
+ORD00122,2025-11-17,Electronics,USB Hub,3,743.09,0.0,2229.27,1159.52,North,In-store,1069.75
+ORD00123,2025-07-21,Stationery,Notebook,1,117.28,0.15,99.69,73.17,East,In-store,26.52
+ORD00124,2025-05-24,Electronics,USB Hub,3,2700.28,0.15,6885.72,4412.48,South,In-store,2473.24
+ORD00125,2025-01-23,Electronics,Headphones,2,2742.05,0.0,5484.09,4025.37,South,Marketplace,1458.72
+ORD00126,2025-08-27,Electronics,USB Hub,5,1818.62,0.15,7729.16,4405.61,West,Online,3323.55
+ORD00127,2025-07-13,Stationery,Markers,2,293.42,0.1,528.15,278.29,North,Marketplace,249.86
+ORD00128,2025-04-05,Home,Storage Box,4,1248.97,0.05,4746.09,2802.0,North,In-store,1944.09
+ORD00129,2025-10-12,Home,Desk Lamp,3,245.81,0.15,626.83,431.28,North,Marketplace,195.55
+ORD00130,2025-06-23,Home,Cushion,5,236.26,0.0,1181.28,822.97,North,Online,358.31
+ORD00131,2025-03-31,Electronics,Keyboard,2,1739.34,0.0,3478.68,2135.2,North,In-store,1343.48
+ORD00132,2025-08-11,Electronics,Keyboard,5,1076.44,0.0,5382.2,2960.13,East,In-store,2422.07
+ORD00133,2025-01-23,Electronics,Wireless Mouse,5,2750.53,0.0,13752.64,8586.17,South,In-store,5166.47
+ORD00134,2025-10-22,Stationery,Markers,5,269.37,0.2,1077.5,666.96,Central,In-store,410.54
+ORD00135,2025-09-01,Stationery,Pen Set,1,87.51,0.1,78.76,48.3,East,In-store,30.46
+ORD00136,2025-12-05,Stationery,Pen Set,2,191.46,0.1,344.63,220.59,South,In-store,124.04
+ORD00137,2025-11-12,Home,Desk Lamp,2,698.96,0.1,1258.13,781.51,South,Marketplace,476.62
+ORD00138,2025-04-04,Stationery,Planner,3,314.8,0.0,944.4,723.25,Central,In-store,221.15
+ORD00139,2025-02-25,Fitness,Skipping Rope,3,1100.27,0.0,3300.81,2354.47,Central,Online,946.34
+ORD00140,2025-01-02,Home,Desk Lamp,3,629.54,0.1,1699.75,1003.34,West,Online,696.41
+ORD00141,2025-12-18,Stationery,Notebook,3,483.25,0.0,1449.74,977.87,Central,In-store,471.87
+ORD00142,2025-10-24,Electronics,Keyboard,2,1919.38,0.05,3646.82,2247.16,North,In-store,1399.66
+ORD00143,2025-07-04,Electronics,USB Hub,4,3005.04,0.0,12020.15,7877.03,East,In-store,4143.12
+ORD00144,2025-09-01,Electronics,Headphones,4,1599.04,0.1,5756.54,3314.18,East,Online,2442.36
+ORD00145,2025-08-01,Electronics,Keyboard,2,745.27,0.2,1192.43,645.09,West,Marketplace,547.34
+ORD00146,2025-06-06,Stationery,Markers,2,285.92,0.2,457.47,242.69,South,Marketplace,214.78
+ORD00147,2025-12-08,Home,Storage Box,5,1507.02,0.0,7535.09,5553.54,North,Marketplace,1981.55
+ORD00148,2025-07-27,Fitness,Shaker Bottle,5,1750.0,0.0,8750.02,4980.81,East,Online,3769.21
+ORD00149,2025-08-17,Fitness,Yoga Mat,1,1761.44,0.15,1497.22,1145.79,North,Marketplace,351.43
+ORD00150,2025-07-18,Home,Cushion,2,1559.12,0.05,2962.32,1837.97,,In-store,1124.35
+ORD00151,2025-04-26,Home,Water Bottle,1,1280.81,0.1,1152.73,609.96,North,Marketplace,542.77
+ORD00152,2025-03-21,Fitness,Yoga Mat,5,578.18,0.0,2890.88,1618.71,Central,Online,1272.17
+ORD00153,2025-08-26,Electronics,Wireless Mouse,3,3232.97,0.15,8244.07,5611.12,Central,In-store,2632.95
+ORD00154,2025-02-03,Home,Cushion,1,784.87,0.15,667.14,440.66,East,Online,226.48
+ORD00155,2025-10-06,Home,Water Bottle,4,780.4,0.0,3121.61,2383.46,North,Marketplace,738.15
+ORD00156,2025-07-09,Home,Water Bottle,3,783.17,0.05,2232.03,1405.42,Central,Online,826.61
+ORD00157,2025-09-19,Stationery,Notebook,2,491.44,0.15,835.44,537.73,North,Marketplace,297.71
+ORD00158,2025-10-13,Stationery,Markers,4,433.87,0.0,1735.46,1201.39,West,Marketplace,534.07
+ORD00159,2025-08-07,Fitness,Shaker Bottle,2,1378.52,0.05,2619.18,1508.72,West,In-store,1110.46
+ORD00160,2025-08-17,Electronics,Wireless Mouse,2,2729.17,0.2,4366.68,2446.0,South,Online,1920.68
+ORD00161,2025-10-20,Electronics,Keyboard,3,3142.62,0.05,8956.46,5771.41,North,In-store,3185.05
+ORD00162,2025-02-16,Home,Desk Lamp,2,1172.29,0.15,1992.89,1423.87,North,Marketplace,569.02
+ORD00163,2025-11-29,Home,Desk Lamp,5,673.18,0.05,3197.58,1863.04,West,Online,1334.54
+ORD00164,2025-02-17,Electronics,Keyboard,2,1788.41,0.15,3040.29,2316.1,South,In-store,724.19
+ORD00165,2025-10-05,Stationery,Notebook,5,449.3,0.15,1909.52,1221.79,North,Marketplace,687.73
+ORD00166,2025-06-30,Home,Water Bottle,3,973.84,0.0,2921.53,1690.24,North,Marketplace,1231.29
+ORD00167,2025-08-18,Fitness,Skipping Rope,5,842.66,0.0,4213.29,2855.08,Central,In-store,1358.21
+ORD00168,2025-04-19,Home,Desk Lamp,4,433.02,0.05,1645.47,1212.5,North,Marketplace,432.97
+ORD00169,2025-06-03,Electronics,Headphones,1,2926.56,0.1,2633.91,1927.4,South,Marketplace,706.51
+ORD00170,2025-04-07,Fitness,Resistance Band,3,1441.27,0.15,3675.23,2272.63,West,Marketplace,1402.6
+ORD00171,2025-10-08,Electronics,Headphones,1,2192.06,0.1,1972.85,1441.33,North,Online,531.52
+ORD00172,2025-05-16,Stationery,Pen Set,1,228.62,0.15,194.33,133.5,West,Marketplace,60.83
+ORD00173,2025-06-01,Fitness,Yoga Mat,3,1367.7,0.15,3487.65,1902.25,East,Online,1585.4
+ORD00174,2025-06-19,Electronics,Wireless Mouse,3,1332.76,0.0,3998.28,2364.08,North,Online,1634.2
+ORD00175,2025-10-15,Electronics,Wireless Mouse,5,1676.25,0.0,8381.23,4711.13,West,In-store,3670.1
+ORD00176,2025-12-01,Electronics,USB Hub,2,3045.54,0.15,5177.42,3103.91,North,In-store,2073.51
+ORD00177,2025-12-26,Stationery,Planner,1,375.05,0.15,318.79,209.49,West,Online,109.3
+ORD00178,2025-04-16,Stationery,Markers,4,271.32,0.1,976.76,608.25,Central,Marketplace,368.51
+ORD00179,2025-01-03,Fitness,Skipping Rope,2,501.65,0.15,852.8,656.45,West,Marketplace,196.35
+ORD00180,2025-05-09,Fitness,Skipping Rope,2,350.09,0.05,665.18,497.32,North,Online,167.86
+ORD00181,2025-04-18,Stationery,Planner,2,178.61,0.0,357.21,242.06,West,Marketplace,115.15
+ORD00182,2025-03-22,Electronics,USB Hub,3,2621.35,0.0,7864.05,5858.14,West,Online,2005.91
+ORD00183,2025-04-19,Home,Desk Lamp,5,1237.07,0.1,5566.83,4176.7,South,In-store,1390.13
+ORD00184,2025-03-31,Stationery,Planner,4,480.92,0.1,1731.3,1235.18,Central,In-store,496.12
+ORD00185,2025-02-16,Home,Water Bottle,3,442.23,0.0,1326.68,889.46,North,Online,437.22
+ORD00186,2025-12-03,Fitness,Skipping Rope,4,344.0,0.0,1376.01,741.04,North,Marketplace,634.97
+ORD00187,2025-06-10,Electronics,Wireless Mouse,1,2973.13,0.15,2527.16,1733.64,East,Marketplace,793.52
+ORD00188,2025-05-07,Home,Storage Box,4,396.09,0.0,1584.34,925.34,West,Marketplace,659.0
+ORD00189,2025-08-26,Home,Cushion,4,262.73,0.0,1050.92,734.71,Central,Online,316.21
+ORD00190,2025-04-16,Home,Desk Lamp,2,1051.7,0.0,2103.4,1473.05,West,Marketplace,630.35
+ORD00191,2025-10-09,Stationery,Planner,1,79.89,0.05,75.89,54.12,South,Marketplace,21.77
+ORD00192,2025-10-05,Home,Cushion,1,873.83,0.05,830.14,545.78,West,In-store,284.36
+ORD00193,2025-07-07,Stationery,Notebook,1,463.98,0.05,440.78,339.48,East,In-store,101.3
+ORD00194,2025-02-04,Electronics,Wireless Mouse,1,451.73,0.0,451.73,301.84,Central,Online,149.89
+ORD00195,2025-04-02,Fitness,Skipping Rope,1,859.61,0.15,730.67,423.77,Central,Marketplace,306.9
+ORD00196,2025-11-07,Stationery,Planner,3,171.97,0.0,515.91,346.4,West,Marketplace,169.51
+ORD00197,2025-03-24,Fitness,Yoga Mat,3,526.18,0.1,1420.68,1046.38,South,Marketplace,374.3
+ORD00198,2025-12-26,Fitness,Resistance Band,3,713.36,0.1,1926.07,1282.38,North,In-store,643.69
+ORD00199,2025-12-26,Stationery,Pen Set,3,192.11,0.0,576.33,427.14,East,Online,149.19
+ORD00200,2025-07-22,Stationery,Notebook,5,121.42,0.0,607.1,325.94,North,Online,281.16
+ORD00201,2025-06-14,Stationery,Markers,1,319.02,0.05,303.07,163.25,Central,In-store,139.82
+ORD00202,2025-03-07,Electronics,USB Hub,3,3206.91,0.1,8658.65,6134.24,North,In-store,2524.41
+ORD00203,2025-06-25,Fitness,Skipping Rope,3,559.07,0.0,1677.2,1025.73,West,In-store,651.47
+ORD00204,2025-08-24,Home,Water Bottle,3,1276.14,0.0,3828.42,2463.61,West,In-store,1364.81
+ORD00205,2025-06-09,Electronics,Wireless Mouse,1,1131.95,0.15,962.16,731.89,South,In-store,230.27
+ORD00206,2025-12-04,Electronics,USB Hub,2,3353.38,0.2,5365.41,4144.16,North,In-store,1221.25
+ORD00207,2025-09-16,Electronics,Wireless Mouse,5,2322.18,0.0,11610.88,8270.9,North,Marketplace,3339.98
+ORD00208,2025-06-22,Fitness,Shaker Bottle,3,1373.0,0.05,3913.05,2212.63,South,Online,1700.42
+ORD00209,2025-08-04,Home,Storage Box,5,462.1,0.15,1963.94,1144.67,West,In-store,819.27
+ORD00210,2025-09-10,Electronics,USB Hub,1,3461.3,0.0,3461.3,1863.99,East,In-store,1597.31
+ORD00211,2025-04-02,Stationery,Notebook,2,279.23,0.05,530.54,407.33,West,Online,123.21
+ORD00212,2025-06-28,Fitness,Yoga Mat,4,275.8,0.0,1103.18,613.75,South,In-store,489.43
+ORD00213,2025-05-31,Home,Storage Box,3,196.46,0.1,530.45,290.82,North,In-store,239.63
+ORD00214,2025-05-24,Home,Water Bottle,2,697.86,0.0,1395.73,912.72,West,In-store,483.01
+ORD00215,2025-10-08,Home,Storage Box,1,1516.49,0.15,1289.01,765.74,West,In-store,523.27
+ORD00216,2025-12-25,Fitness,Shaker Bottle,5,434.79,0.0,2173.95,1688.7,North,Online,485.25
+ORD00217,2025-09-22,Home,Water Bottle,5,845.71,0.0,4228.54,2255.7,Central,Marketplace,1972.84
+ORD00218,2025-02-03,Home,Desk Lamp,1,1498.65,0.0,1498.65,975.89,West,Marketplace,522.76
+ORD00219,2025-03-14,Home,Water Bottle,2,715.34,0.0,1430.68,856.07,North,In-store,574.61
+ORD00220,2025-09-06,Electronics,Keyboard,4,1003.03,0.0,4012.12,2833.98,East,In-store,1178.14
+ORD00221,2025-07-22,Home,Water Bottle,5,460.05,0.0,2300.27,1491.95,North,Marketplace,808.32
+ORD00222,2025-02-17,Stationery,Notebook,2,319.0,0.1,574.21,446.81,East,In-store,127.4
+ORD00223,2025-04-05,Electronics,Wireless Mouse,3,2076.41,0.2,4983.39,2934.17,North,Marketplace,2049.22
+ORD00224,2025-04-10,Electronics,Wireless Mouse,2,550.07,0.05,1045.13,635.59,South,Online,409.54
+ORD00225,2025-12-07,Electronics,Headphones,1,1066.45,0.1,959.8,631.81,South,Online,327.99
+ORD00226,2025-11-05,Stationery,Markers,4,392.76,0.0,1571.05,1196.52,East,Online,374.53
+ORD00227,2025-07-09,Fitness,Resistance Band,4,1432.3,0.15,4869.82,3295.05,Central,In-store,1574.77
+ORD00228,2025-06-01,Electronics,Wireless Mouse,5,579.5,0.05,2752.61,2060.73,North,Online,691.88
+ORD00229,2025-10-07,Fitness,Skipping Rope,3,611.8,0.1,1651.85,924.16,South,In-store,727.69
+ORD00230,2025-10-28,Home,Storage Box,3,1556.17,0.15,3968.23,2210.09,Central,In-store,1758.14
+ORD00231,2025-04-05,Electronics,Wireless Mouse,5,2231.69,0.1,10042.63,7104.86,North,In-store,2937.77
+ORD00232,2025-01-25,Fitness,Shaker Bottle,1,389.88,0.2,311.91,234.75,South,Online,77.16
+ORD00233,2025-04-25,Home,Water Bottle,3,791.85,0.2,1900.44,1213.22,Central,Online,687.22
+ORD00234,2025-02-02,Fitness,Resistance Band,5,703.55,0.05,3341.85,2130.89,West,In-store,1210.96
+ORD00235,2025-08-03,Electronics,Headphones,5,1222.59,0.1,5501.65,3345.8,West,In-store,2155.85
+ORD00236,2025-10-01,Fitness,Yoga Mat,5,789.35,0.1,3552.08,2121.25,Central,Online,1430.83
+ORD00237,2025-09-10,Home,Storage Box,2,435.59,0.05,827.62,504.68,East,Marketplace,322.94
+ORD00238,2025-08-03,Home,Cushion,2,906.87,0.0,1813.74,1145.5,Central,Marketplace,668.24
+ORD00239,2025-11-01,Fitness,Skipping Rope,3,1402.43,0.1,3786.56,2681.23,Central,In-store,1105.33
+ORD00240,2025-10-03,Stationery,Planner,3,56.76,0.0,170.27,126.63,West,In-store,43.64
+ORD00241,2025-01-31,Home,Water Bottle,1,1170.48,0.15,994.91,715.04,North,Online,279.87
+ORD00242,2025-09-16,Fitness,Resistance Band,1,263.24,0.1,236.91,125.85,Central,Online,111.06
+ORD00243,2025-07-24,Stationery,Markers,5,263.58,0.0,1317.9,864.08,East,Online,453.82
+ORD00244,2025-12-30,Fitness,Shaker Bottle,4,763.39,0.0,3053.57,1726.43,North,Marketplace,1327.14
+ORD00245,2025-05-01,Home,Storage Box,5,247.12,0.0,1235.59,959.27,South,Online,276.32
+ORD00246,2025-07-01,Stationery,Notebook,3,420.31,0.05,1197.89,837.73,South,Marketplace,360.16
+ORD00247,2025-01-01,Home,Storage Box,3,396.96,0.0,1190.89,843.36,North,Marketplace,347.53
+ORD00248,2025-02-02,Fitness,Skipping Rope,1,575.53,0.1,517.97,326.75,South,Marketplace,191.22
+ORD00249,2025-02-10,Home,Water Bottle,3,367.69,0.05,1047.91,786.4,West,Marketplace,261.51
+ORD00250,2025-06-02,Electronics,Headphones,5,1568.07,0.0,7840.36,4588.35,Central,In-store,3252.01
+ORD00251,2025-07-28,Electronics,USB Hub,5,2286.46,0.0,11432.32,6392.45,North,Online,5039.87
+ORD00252,2025-12-27,Stationery,Notebook,1,73.06,0.15,62.1,38.09,East,Online,24.01
+ORD00253,2025-09-10,Stationery,Notebook,5,97.01,0.1,436.53,316.92,West,In-store,119.61
+ORD00254,2025-04-01,Fitness,Skipping Rope,2,1691.11,0.1,3044.0,2354.21,East,In-store,689.79
+ORD00255,2025-02-05,Home,Cushion,3,493.22,0.2,1183.72,653.65,North,Marketplace,530.07
+ORD00256,2025-11-25,Electronics,USB Hub,1,2663.39,0.15,2263.88,1664.7,Central,Marketplace,599.18
+ORD00257,2025-05-19,Stationery,Pen Set,2,310.26,0.05,589.49,422.42,Central,In-store,167.07
+ORD00258,2025-07-16,Electronics,Wireless Mouse,4,1918.19,0.1,6905.5,4641.53,South,In-store,2263.97
+ORD00259,2025-11-05,Stationery,Notebook,4,287.25,0.0,1149.01,679.09,East,Marketplace,469.92
+ORD00260,2025-02-02,Stationery,Markers,2,377.65,0.1,679.77,458.0,South,In-store,221.77
+ORD00261,2025-02-28,Home,Cushion,5,903.64,0.0,4518.21,2576.22,South,Marketplace,1941.99
+ORD00262,2025-03-27,Home,Cushion,5,640.54,0.15,2722.31,1983.76,East,Online,738.55
+ORD00263,2025-08-23,Stationery,Markers,5,464.72,0.1,2091.24,1387.72,South,Marketplace,703.52
+ORD00264,2025-01-13,Home,Cushion,1,1528.22,0.0,1528.22,1168.31,West,Marketplace,359.91
+ORD00265,2025-05-12,Home,Cushion,4,758.66,0.0,3034.64,2238.13,North,Online,796.51
+ORD00266,2025-03-20,Home,Water Bottle,5,966.81,0.2,3867.23,2162.78,Central,Marketplace,1704.45
+ORD00267,2025-11-28,Fitness,Skipping Rope,5,1304.79,0.0,6523.96,5017.6,East,Online,1506.36
+ORD00268,2025-01-05,Home,Cushion,2,885.43,0.0,1770.85,1163.73,Central,In-store,607.12
+ORD00269,2025-04-29,Fitness,Resistance Band,1,998.85,0.1,898.96,689.5,South,In-store,209.46
+ORD00270,2025-04-06,Electronics,Headphones,2,1864.35,0.1,3355.82,2195.74,West,In-store,1160.08
+ORD00271,2025-06-23,Home,Desk Lamp,1,1099.74,0.1,989.77,707.95,Central,In-store,281.82
+ORD00272,2025-09-12,Stationery,Planner,2,466.04,0.15,792.27,427.79,West,Online,364.48
+ORD00273,2025-10-12,Electronics,Headphones,3,1469.8,0.15,3747.98,2819.28,West,Marketplace,928.7
+ORD00274,2025-11-30,Electronics,Wireless Mouse,4,720.64,0.05,2738.43,1899.16,East,In-store,839.27
+ORD00275,2025-12-03,Stationery,Pen Set,1,146.97,0.05,139.63,104.8,Central,In-store,34.83
+ORD00276,2025-04-09,Stationery,Pen Set,1,436.01,0.2,348.81,260.96,Central,Marketplace,87.85
+ORD00277,2025-12-29,Electronics,Headphones,5,2192.2,0.0,10961.0,6387.43,North,In-store,4573.57
+ORD00278,2025-08-19,Fitness,Resistance Band,3,534.84,0.15,1363.85,779.55,West,Marketplace,584.3
+ORD00279,2025-03-04,Stationery,Markers,3,445.54,0.15,1136.14,787.11,Central,Online,349.03
+ORD00280,2025-10-25,Home,Cushion,2,806.66,0.1,1451.99,795.03,West,Online,656.96
+ORD00281,2025-09-27,Fitness,Shaker Bottle,2,1489.31,0.15,2531.82,1362.7,East,In-store,1169.12
+ORD00282,2025-06-13,Stationery,Pen Set,3,307.72,0.05,877.0,642.52,West,Marketplace,234.48
+ORD00283,2025-09-28,Home,Storage Box,5,372.56,0.1,1676.54,975.89,West,Online,700.65
+ORD00284,2025-12-13,Home,Desk Lamp,1,1419.82,0.0,1419.82,1040.89,East,Online,378.93
+ORD00285,2025-07-05,Home,Cushion,5,922.47,0.1,4151.13,2664.13,Central,Online,1487.0
+ORD00286,2025-08-23,Electronics,Wireless Mouse,3,3414.58,0.15,8707.19,5040.27,South,In-store,3666.92
+ORD00287,2025-04-03,Fitness,Resistance Band,1,768.45,0.05,730.03,411.49,West,Marketplace,318.54
+ORD00288,2025-05-24,Electronics,USB Hub,1,3173.36,0.0,3173.36,1874.6,East,In-store,1298.76
+ORD00289,2025-11-11,Electronics,Wireless Mouse,3,2605.42,0.0,7816.27,5618.73,South,In-store,2197.54
+ORD00290,2025-03-10,Electronics,USB Hub,4,1965.93,0.15,6684.16,3616.16,East,Marketplace,3068.0
+ORD00291,2025-08-03,Stationery,Markers,5,281.54,0.2,1126.17,615.04,South,Online,511.13
+ORD00292,2025-06-12,Fitness,Yoga Mat,3,458.85,0.15,1170.07,878.41,North,Online,291.66
+ORD00293,2025-02-03,Stationery,Planner,2,159.48,0.0,318.96,174.43,West,Online,144.53
+ORD00294,2025-09-10,Electronics,Keyboard,4,2544.89,0.15,8652.63,4668.41,East,Marketplace,3984.22
+ORD00295,2025-01-04,Fitness,Skipping Rope,5,1287.18,0.15,5470.5,4264.47,East,In-store,1206.03
+ORD00296,2025-02-13,Stationery,Notebook,4,376.27,0.0,1505.09,800.24,South,Marketplace,704.85
+ORD00297,2025-10-02,Stationery,Pen Set,1,169.97,0.05,161.47,122.73,South,Marketplace,38.74
+ORD00298,2025-12-15,Electronics,Headphones,5,3441.31,0.15,14625.57,10405.39,North,Online,4220.18
+ORD00299,2025-08-12,Home,Storage Box,3,1141.57,0.0,3424.72,2111.84,North,Online,1312.88
+ORD00300,2025-06-09,Home,Cushion,3,453.67,0.0,1361.01,979.32,West,In-store,381.69
+ORD00301,2025-03-14,Home,Desk Lamp,3,,0.1,1661.08,1050.2,West,Online,610.88
+ORD00302,2025-07-11,Home,Desk Lamp,4,301.16,0.05,1144.42,760.81,South,Marketplace,383.61
+ORD00303,2025-02-22,Electronics,USB Hub,4,1846.09,0.0,7384.37,4367.03,East,,3017.34
+ORD00304,2025-03-01,Electronics,Headphones,1,735.38,0.0,735.38,387.03,East,Marketplace,348.35
+ORD00305,2025-05-24,Electronics,Headphones,1,896.97,0.2,717.57,389.64,Central,In-store,327.93
+ORD00306,2025-06-03,Stationery,Notebook,3,108.64,0.05,309.64,213.24,South,Marketplace,96.4
+ORD00307,2025-05-01,Electronics,Keyboard,5,2181.82,0.1,9818.21,6270.15,North,Marketplace,3548.06
+ORD00308,2025-01-13,Fitness,Yoga Mat,5,457.67,0.1,2059.53,1103.08,North,In-store,956.45
+ORD00309,2025-12-04,Stationery,Pen Set,3,313.38,0.1,846.11,633.99,West,Marketplace,212.12
+ORD00310,2025-02-01,Home,Desk Lamp,4,166.22,0.15,565.15,318.66,West,Online,246.49
+ORD00311,2025-06-21,Home,Water Bottle,2,1538.66,0.15,2615.71,1460.79,Central,Marketplace,1154.92
+ORD00312,2025-02-27,Home,Storage Box,4,509.52,0.2,1630.47,890.56,West,In-store,739.91
+ORD00313,2025-04-03,Electronics,USB Hub,3,1427.39,0.05,4068.05,2803.75,North,Online,1264.3
+ORD00314,2025-10-27,Home,Cushion,3,1179.5,0.1,3184.65,1886.38,West,Online,1298.27
+ORD00315,2025-12-05,Stationery,Notebook,1,292.49,0.1,263.24,191.01,Central,Online,72.23
+ORD00316,2025-07-25,Home,Desk Lamp,5,1099.92,0.0,5499.58,4045.48,West,In-store,1454.1
+ORD00317,2025-04-05,Electronics,Keyboard,4,707.67,0.0,2830.67,2024.54,South,Online,806.13
+ORD00318,2025-09-12,Stationery,Markers,3,476.15,0.0,1428.44,829.94,South,In-store,598.5
+ORD00319,2025-08-22,Stationery,Planner,3,104.99,0.15,267.73,181.15,South,In-store,86.58
+ORD00320,2025-04-03,Electronics,USB Hub,2,1151.81,0.0,2303.63,1308.28,East,In-store,995.35
+ORD00321,2025-09-06,Home,Water Bottle,5,798.71,0.05,3793.86,2606.6,Central,Marketplace,1187.26
+ORD00322,2025-02-05,Fitness,Yoga Mat,3,992.86,0.1,2680.71,1499.68,Central,Online,1181.03
+ORD00323,2025-08-26,Electronics,Wireless Mouse,3,1797.8,0.05,5123.73,3210.13,North,Online,1913.6
+ORD00324,2025-01-06,Home,Storage Box,2,1332.86,0.2,2132.57,1296.06,North,In-store,836.51
+ORD00325,2025-12-06,Stationery,Markers,2,343.28,0.15,583.58,351.45,South,In-store,232.13
+ORD00326,2025-12-02,Home,Desk Lamp,4,1478.28,0.05,5617.48,2990.43,South,Online,2627.05
+ORD00327,2025-01-22,Home,Storage Box,2,1532.15,0.15,2604.65,1788.47,West,In-store,816.18
+ORD00328,2025-03-10,Stationery,Pen Set,3,157.39,0.1,424.94,270.83,East,In-store,154.11
+ORD00329,2025-01-23,Electronics,USB Hub,4,1275.36,0.0,5101.45,3255.17,North,Marketplace,1846.28
+ORD00330,2025-02-17,Home,Water Bottle,2,1518.72,0.0,3037.45,1613.4,South,Marketplace,1424.05
+ORD00331,2025-01-26,Stationery,Planner,5,213.21,0.0,1066.04,830.41,North,Online,235.63
+ORD00332,2025-09-26,Stationery,Markers,1,124.54,0.1,112.09,68.6,Central,Online,43.49
+ORD00333,2025-12-11,Electronics,Keyboard,2,664.21,0.2,1062.74,819.09,North,Online,243.65
+ORD00334,2025-09-10,Stationery,Planner,1,75.25,0.2,60.2,41.82,North,Marketplace,18.38
+ORD00335,2025-10-05,Fitness,Resistance Band,4,206.98,0.1,745.13,569.0,South,Marketplace,176.13
+ORD00336,2025-01-22,Electronics,Keyboard,1,695.66,0.0,695.66,397.02,West,Online,298.64
+ORD00337,2025-07-16,Home,Desk Lamp,4,712.68,0.0,2850.71,2173.0,West,Online,677.71
+ORD00338,2025-08-26,Fitness,Skipping Rope,4,300.11,0.0,1200.46,654.0,West,In-store,546.46
+ORD00339,2025-01-28,Stationery,Markers,4,384.03,0.0,1536.14,910.86,South,Marketplace,625.28
+ORD00340,2025-10-05,Fitness,Resistance Band,1,1283.48,0.0,1283.48,883.68,South,In-store,399.8
+ORD00341,2025-03-30,Home,Water Bottle,1,294.9,0.2,235.92,140.15,South,Marketplace,95.77
+ORD00342,2025-07-25,Fitness,Resistance Band,5,1089.95,0.0,5449.75,3970.12,West,Marketplace,1479.63
+ORD00343,2025-10-23,Home,Water Bottle,5,542.83,0.15,2307.05,1260.51,South,Online,1046.54
+ORD00344,2025-01-29,Electronics,Headphones,1,2573.15,0.0,2573.15,1464.33,Central,Marketplace,1108.82
+ORD00345,2025-03-07,Fitness,Resistance Band,1,1335.88,0.1,1202.29,881.46,East,In-store,320.83
+ORD00346,2025-02-08,Home,Storage Box,5,198.73,0.0,993.67,681.73,North,In-store,311.94
+ORD00347,2025-01-04,Home,Water Bottle,1,661.48,0.05,628.41,406.34,Central,In-store,222.07
+ORD00348,2025-06-24,Home,Cushion,5,1516.64,0.2,6066.55,4288.2,South,Online,1778.35
+ORD00349,2025-06-09,Electronics,Wireless Mouse,1,2278.84,0.1,2050.95,1395.31,South,In-store,655.64
+ORD00350,2025-02-07,Stationery,Notebook,5,45.73,0.1,205.8,149.89,East,In-store,55.91
+ORD00351,2025-01-30,Fitness,Skipping Rope,3,1710.63,0.0,5131.9,2703.55,,In-store,2428.35
+ORD00352,2025-07-11,Home,Desk Lamp,2,573.89,0.15,975.61,547.29,North,Online,428.32
+ORD00353,2025-11-23,Home,Desk Lamp,4,1004.96,0.0,4019.82,2211.65,North,Online,1808.17
+ORD00354,2025-05-11,Home,Desk Lamp,2,846.88,0.0,1693.77,1033.23,South,In-store,660.54
+ORD00355,2025-07-12,Stationery,Notebook,2,337.81,0.05,641.84,482.73,North,Marketplace,159.11
+ORD00356,2025-07-05,Electronics,USB Hub,2,1744.23,0.2,2790.76,1659.26,North,Marketplace,1131.5
+ORD00357,2025-11-17,Fitness,Shaker Bottle,3,1711.25,0.05,4877.06,2876.56,North,In-store,2000.5
+ORD00358,2025-01-11,Fitness,Shaker Bottle,4,376.27,0.1,1354.58,932.59,Central,Online,421.99
+ORD00359,2025-09-22,Fitness,Resistance Band,3,1025.44,0.0,3076.31,2004.38,North,Marketplace,1071.93
+ORD00360,2025-07-06,Electronics,Headphones,3,615.87,0.15,1570.46,840.04,North,Marketplace,730.42
+ORD00361,2025-09-10,Fitness,Resistance Band,2,1045.86,0.0,2091.72,1565.45,Central,In-store,526.27
+ORD00362,2025-07-23,Home,Cushion,1,509.46,0.0,509.46,307.62,East,Online,201.84
+ORD00363,2025-09-13,Stationery,Pen Set,2,207.61,0.0,415.21,289.22,West,Online,125.99
+ORD00364,2025-09-10,Fitness,Resistance Band,1,1785.39,0.15,1517.58,1159.08,North,Marketplace,358.5
+ORD00365,2025-01-26,Electronics,Wireless Mouse,4,1825.99,0.15,6208.38,4508.43,West,In-store,1699.95
+ORD00366,2025-12-19,Home,Desk Lamp,4,798.33,0.1,2874.0,1817.54,Central,Marketplace,1056.46
+ORD00367,2025-03-14,Fitness,Yoga Mat,5,1541.32,0.1,6935.93,4868.99,West,Online,2066.94
+ORD00368,2025-03-18,Stationery,Planner,4,41.14,0.1,148.1,81.98,East,Marketplace,66.12
+ORD00369,2025-12-20,Stationery,Planner,4,230.45,0.0,921.81,633.9,West,Online,287.91
+ORD00370,2025-10-23,Home,Storage Box,3,553.21,0.2,1327.7,1025.69,East,Marketplace,302.01
+ORD00371,2025-08-06,Stationery,Markers,4,392.07,0.15,1333.05,731.19,South,Marketplace,601.86
+ORD00372,2025-02-09,Home,Storage Box,4,1364.55,0.0,5458.18,3510.18,North,Online,1948.0
+ORD00373,2025-07-17,Stationery,Pen Set,4,111.04,0.15,377.55,249.74,Central,In-store,127.81
+ORD00374,2025-06-21,Home,Water Bottle,4,1596.59,0.15,5428.4,3603.54,South,In-store,1824.86
+ORD00375,2025-08-09,Home,Desk Lamp,2,872.5,0.1,1570.51,1107.02,East,Online,463.49
+ORD00376,2025-12-22,Electronics,USB Hub,2,2927.18,0.0,5854.36,4204.05,Central,Online,1650.31
+ORD00377,2025-01-17,Home,Cushion,3,711.17,0.1,1920.17,1035.29,West,In-store,884.88
+ORD00378,2025-09-21,Home,Cushion,3,1311.03,0.15,3343.14,1992.76,East,Marketplace,1350.38
+ORD00379,2025-03-29,Home,Water Bottle,5,214.38,0.15,911.1,699.12,East,Marketplace,211.98
+ORD00380,2025-07-02,Electronics,Keyboard,1,1121.15,0.0,1121.15,640.99,South,Online,480.16
+ORD00381,2025-11-04,Stationery,Pen Set,2,317.18,0.05,602.63,338.4,South,Online,264.23
+ORD00382,2025-04-12,Stationery,Markers,2,347.48,0.15,590.72,410.45,Central,In-store,180.27
+ORD00383,2025-01-27,Electronics,Wireless Mouse,1,3393.68,0.0,3393.68,2490.12,South,Online,903.56
+ORD00384,2025-04-11,Home,Cushion,4,1332.96,0.15,4532.06,2769.14,South,In-store,1762.92
+ORD00385,2025-07-03,Electronics,Keyboard,5,1356.86,0.0,6784.28,3674.12,North,Marketplace,3110.16
+ORD00386,2025-01-21,Fitness,Resistance Band,3,1287.12,0.0,3861.36,2429.38,South,Online,1431.98
+ORD00387,2025-10-14,Electronics,USB Hub,2,2206.26,0.0,4412.51,3201.61,Central,In-store,1210.9
+ORD00388,2025-04-12,Stationery,Pen Set,2,118.66,0.05,225.46,128.05,West,Online,97.41
+ORD00389,2025-03-28,Home,Desk Lamp,5,703.04,0.0,3515.22,2323.78,West,Marketplace,1191.44
+ORD00390,2025-01-18,Electronics,Keyboard,3,525.57,0.1,1419.05,990.38,East,Online,428.67
+ORD00391,2025-07-30,Electronics,Headphones,2,2493.78,0.15,4239.43,3298.21,West,Marketplace,941.22
+ORD00392,2025-09-24,Fitness,Skipping Rope,2,1221.26,0.1,2198.27,1629.51,North,In-store,568.76
+ORD00393,2025-06-13,Fitness,Skipping Rope,4,1411.07,0.2,4515.43,3412.74,East,In-store,1102.69
+ORD00394,2025-12-22,Electronics,Headphones,4,1227.8,0.0,4911.21,2795.12,North,Marketplace,2116.09
+ORD00395,2025-09-29,Home,Water Bottle,1,512.75,0.0,512.75,277.94,East,Marketplace,234.81
+ORD00396,2025-06-19,Stationery,Pen Set,4,167.95,0.0,671.79,521.93,East,Online,149.86
+ORD00397,2025-08-28,Electronics,Keyboard,2,628.16,0.1,1130.69,773.36,Central,In-store,357.33
+ORD00398,2025-10-26,Stationery,Markers,4,364.05,0.15,1237.77,953.18,West,Online,284.59
+ORD00399,2025-08-15,Fitness,Resistance Band,5,1736.36,0.0,8681.81,5302.34,West,Online,3379.47
+ORD00400,2025-01-09,Home,Water Bottle,1,965.38,0.15,820.57,515.3,North,Online,305.27
+ORD00401,2025-08-14,Electronics,Keyboard,2,1402.78,0.1,2525.01,1726.33,Central,Online,798.68
+ORD00402,2025-02-20,Home,Cushion,5,239.31,0.05,1136.74,673.81,North,Marketplace,462.93
+ORD00403,2025-02-17,Fitness,Shaker Bottle,4,1356.69,0.1,4884.1,2883.54,South,Marketplace,2000.56
+ORD00404,2025-06-23,Stationery,Markers,4,256.28,0.05,973.88,680.02,Central,Online,293.86
+ORD00405,2025-05-17,Stationery,Pen Set,2,340.21,0.2,544.33,355.0,West,In-store,189.33
+ORD00406,2025-04-14,Electronics,Headphones,1,1743.25,0.1,1568.93,905.54,South,Marketplace,663.39
+ORD00407,2025-07-22,Home,Storage Box,4,831.45,0.0,3325.8,2550.24,South,Online,775.56
+ORD00408,2025-08-15,Electronics,Headphones,1,1874.48,0.0,1874.48,1461.63,West,In-store,412.85
+ORD00409,2025-04-14,Electronics,Wireless Mouse,5,510.94,0.1,2299.22,1472.75,Central,Online,826.47
+ORD00410,2025-11-07,Fitness,Yoga Mat,1,1261.3,0.1,1135.17,744.7,Central,Marketplace,390.47
+ORD00411,2025-03-27,Stationery,Planner,2,128.46,0.15,218.39,153.59,East,Online,64.8
+ORD00412,2025-10-24,Stationery,Pen Set,1,417.15,0.05,396.29,295.24,South,In-store,101.05
+ORD00413,2025-03-05,Home,Water Bottle,2,940.03,0.0,1880.07,1401.36,South,Online,478.71
+ORD00414,2025-07-24,Electronics,USB Hub,2,2086.68,0.1,3756.02,2525.5,South,In-store,1230.52
+ORD00415,2025-12-05,Electronics,Headphones,3,1253.83,0.0,3761.48,2027.4,North,Marketplace,1734.08
+ORD00416,2025-03-06,Stationery,Notebook,5,81.92,0.0,409.6,258.3,South,Marketplace,151.3
+ORD00417,2025-05-04,Fitness,Skipping Rope,4,1715.07,0.0,6860.26,4273.61,South,In-store,2586.65
+ORD00418,2025-04-10,Stationery,Notebook,5,269.07,0.05,1278.06,712.22,West,Marketplace,565.84
+ORD00419,2025-12-20,Electronics,USB Hub,3,1050.79,0.0,3152.37,2043.7,West,In-store,1108.67
+ORD00420,2025-08-01,Home,Water Bottle,1,689.51,0.05,655.04,509.3,East,Marketplace,145.74
+ORD00421,2025-09-20,Fitness,Shaker Bottle,3,222.6,0.0,667.81,425.95,South,Online,241.86
+ORD00422,2025-05-11,Stationery,Notebook,2,287.66,0.05,546.56,305.88,East,Online,240.68
+ORD00423,2025-10-24,Stationery,Pen Set,2,59.78,0.1,107.61,62.97,East,Marketplace,44.64
+ORD00424,2025-03-22,Stationery,Notebook,5,455.09,0.2,1820.36,1255.16,West,In-store,565.2
+ORD00425,2025-08-28,Home,Storage Box,5,664.84,0.0,3324.19,2068.01,South,Marketplace,1256.18
+ORD00426,2025-10-27,Home,Cushion,1,1242.58,0.05,1180.45,693.57,West,Online,486.88
+ORD00427,2025-04-26,Electronics,Keyboard,2,2638.43,0.05,5013.03,3686.23,Central,Online,1326.8
+ORD00428,2025-05-25,Fitness,Resistance Band,1,458.48,0.1,412.63,227.31,North,Marketplace,185.32
+ORD00429,2025-02-05,Electronics,Headphones,4,3225.77,0.05,12257.94,6931.29,North,Marketplace,5326.65
+ORD00430,2025-07-29,Stationery,Pen Set,3,209.96,0.1,566.88,340.42,East,In-store,226.46
+ORD00431,2025-06-09,Fitness,Resistance Band,3,361.52,0.15,921.88,679.74,North,Online,242.14
+ORD00432,2025-08-04,Home,Water Bottle,2,1145.79,0.1,2062.43,1372.6,East,Online,689.83
+ORD00433,2025-11-22,Fitness,Shaker Bottle,1,1029.73,0.0,1029.73,757.07,West,In-store,272.66
+ORD00434,2025-04-08,Stationery,Planner,2,186.27,0.2,298.04,216.83,East,Marketplace,81.21
+ORD00435,2025-10-13,Home,Desk Lamp,5,902.22,0.2,3608.87,2562.65,West,Online,1046.22
+ORD00436,2025-07-05,Home,Desk Lamp,1,879.42,0.15,747.5,464.59,North,In-store,282.91
+ORD00437,2025-12-26,Electronics,Wireless Mouse,2,1896.97,0.05,3604.24,2263.74,South,In-store,1340.5
+ORD00438,2025-06-23,Home,Storage Box,3,159.17,0.05,453.64,260.35,West,In-store,193.29
+ORD00439,2025-08-22,Electronics,Headphones,5,1658.9,0.05,7879.76,5196.6,East,Marketplace,2683.16
+ORD00440,2025-12-30,Stationery,Markers,2,295.56,0.2,472.89,326.31,West,Marketplace,146.58
+ORD00441,2025-03-02,Stationery,Markers,1,462.65,0.0,462.65,256.69,North,Marketplace,205.96
+ORD00442,2025-09-22,Electronics,Keyboard,3,2134.69,0.0,6404.08,4803.05,West,Online,1601.03
+ORD00443,2025-09-06,Electronics,Headphones,2,2909.01,0.15,4945.31,2815.94,North,In-store,2129.37
+ORD00444,2025-09-13,Electronics,Keyboard,4,1537.91,0.0,6151.65,4284.85,South,Online,1866.8
+ORD00445,2025-09-18,Fitness,Resistance Band,4,444.5,0.0,1778.0,1328.01,West,Marketplace,449.99
+ORD00446,2025-04-04,Home,Water Bottle,3,197.5,0.0,592.49,334.57,East,In-store,257.92
+ORD00447,2025-06-03,Fitness,Resistance Band,3,962.06,0.1,2597.55,1835.64,South,In-store,761.91
+ORD00448,2025-03-13,Electronics,USB Hub,5,2890.61,0.1,13007.74,9625.82,West,Online,3381.92
+ORD00449,2025-12-06,Electronics,Headphones,3,3366.37,0.0,10099.11,7396.65,West,Marketplace,2702.46
+ORD00450,2025-10-25,Home,Storage Box,3,1247.56,0.15,3181.27,2367.64,North,Online,813.63
+ORD00451,2025-10-13,Electronics,Headphones,3,3063.05,0.05,8729.68,5936.48,North,Online,2793.2
+ORD00452,2025-11-29,Electronics,USB Hub,5,1109.99,0.0,5549.94,2994.08,West,In-store,2555.86
+ORD00453,2025-03-10,Fitness,Resistance Band,3,1300.9,0.05,3707.56,2616.07,Central,Online,1091.49
+ORD00454,2025-02-15,Electronics,Keyboard,2,2138.22,0.1,3848.79,2799.96,South,Online,1048.83
+ORD00455,2025-11-27,Fitness,Resistance Band,1,1565.81,0.05,1487.52,1092.29,East,Online,395.23
+ORD00456,2025-03-15,Electronics,Headphones,5,2130.44,0.2,8521.77,4656.8,West,Marketplace,3864.97
+ORD00457,2025-11-23,Electronics,USB Hub,3,3012.77,0.1,8134.47,5946.42,North,Online,2188.05
+ORD00458,2025-03-27,Home,Water Bottle,1,1526.97,0.1,1374.27,1012.02,East,Online,362.25
+ORD00459,2025-08-17,Electronics,Headphones,4,608.46,0.0,2433.82,1573.22,West,Marketplace,860.6
+ORD00460,2025-08-29,Home,Water Bottle,5,1229.82,0.1,5534.19,3088.75,West,In-store,2445.44
+ORD00461,2025-09-22,Electronics,USB Hub,1,2011.73,0.1,1810.56,1033.4,Central,Online,777.16
+ORD00462,2025-04-27,Home,Water Bottle,4,833.82,0.0,3335.3,1868.11,Central,Marketplace,1467.19
+ORD00463,2025-06-11,Stationery,Planner,2,340.56,0.05,647.07,366.82,West,In-store,280.25
+ORD00464,2025-10-19,Stationery,Notebook,4,165.64,0.1,596.31,452.6,East,In-store,143.71
+ORD00465,2025-12-15,Fitness,Skipping Rope,1,441.04,0.0,441.04,318.24,East,Marketplace,122.8
+ORD00466,2025-07-06,Electronics,Wireless Mouse,4,1380.11,0.1,4968.41,3073.5,East,Online,1894.91
+ORD00467,2025-01-03,Electronics,Wireless Mouse,2,540.99,0.05,1027.88,688.39,East,Marketplace,339.49
+ORD00468,2025-04-19,Electronics,USB Hub,2,1370.45,0.2,2192.71,1202.71,Central,In-store,990.0
+ORD00469,2025-05-01,Home,Desk Lamp,3,179.38,0.1,484.31,335.01,East,Online,149.3
+ORD00470,2025-08-02,Electronics,Keyboard,4,587.07,0.0,2348.29,1812.96,West,Online,535.33
+ORD00471,2025-01-28,Electronics,Headphones,1,2458.51,0.0,2458.51,1692.57,North,Marketplace,765.94
+ORD00472,2025-07-15,Stationery,Pen Set,2,486.26,0.1,875.27,635.01,West,Online,240.26
+ORD00473,2025-03-19,Fitness,Shaker Bottle,2,1053.79,0.1,1896.83,1405.76,Central,Marketplace,491.07
+ORD00474,2025-05-11,Electronics,Wireless Mouse,1,1910.7,0.0,1910.7,1219.61,West,In-store,691.09
+ORD00475,2025-10-11,Home,Water Bottle,1,746.9,0.0,746.9,502.77,East,Marketplace,244.13
+ORD00476,2025-02-11,Electronics,USB Hub,3,1365.97,0.0,4097.92,2221.24,East,In-store,1876.68
+ORD00477,2025-09-04,Stationery,Markers,5,373.13,0.0,1865.64,1237.29,West,In-store,628.35
+ORD00478,2025-06-25,Stationery,Pen Set,5,346.46,0.0,1732.3,1065.69,Central,Online,666.61
+ORD00479,2025-06-18,Electronics,Keyboard,5,1955.09,0.0,9775.44,6927.7,South,Online,2847.74
+ORD00480,2025-01-01,Stationery,Notebook,2,383.21,0.1,689.77,363.07,South,Marketplace,326.7
+ORD00481,2025-08-20,Fitness,Skipping Rope,2,1256.93,0.15,2136.79,1131.78,East,Marketplace,1005.01
+ORD00482,2025-11-16,Home,Storage Box,1,678.08,0.15,576.37,311.56,Central,In-store,264.81
+ORD00483,2025-06-05,Electronics,Headphones,4,2861.33,0.15,9728.54,6338.12,Central,Online,3390.42
+ORD00484,2025-03-27,Fitness,Shaker Bottle,5,538.14,0.2,2152.57,1362.57,South,Online,790.0
+ORD00485,2025-12-09,Home,Water Bottle,2,1488.37,0.1,2679.07,1617.29,Central,Marketplace,1061.78
+ORD00486,2025-12-22,Electronics,Wireless Mouse,1,3085.62,0.0,3085.62,1834.59,East,Online,1251.03
+ORD00487,2025-08-20,Home,Storage Box,3,462.27,0.15,1178.78,646.46,West,Online,532.32
+ORD00488,2025-03-13,Home,Cushion,3,545.75,0.0,1637.26,1127.44,Central,Online,509.82
+ORD00489,2025-05-08,Home,Water Bottle,4,470.35,0.05,1787.31,947.51,South,In-store,839.8
+ORD00490,2025-03-20,Fitness,Skipping Rope,1,1484.23,0.0,1484.23,819.82,West,In-store,664.41
+ORD00491,2025-03-01,Fitness,Resistance Band,5,1297.81,0.2,5191.23,3313.25,North,In-store,1877.98
+ORD00492,2025-10-23,Home,Storage Box,4,1418.6,0.0,5674.4,3002.2,Central,Online,2672.2
+ORD00493,2025-05-05,Stationery,Planner,1,75.67,0.2,60.54,32.21,West,In-store,28.33
+ORD00494,2025-05-07,Fitness,Shaker Bottle,2,1365.75,0.05,2594.92,1514.36,East,Marketplace,1080.56
+ORD00495,2025-12-24,Fitness,Resistance Band,2,1039.86,0.15,1767.76,1368.51,East,Marketplace,399.25
+ORD00496,2025-02-18,Home,Desk Lamp,2,275.35,0.0,550.7,399.99,East,Online,150.71
+ORD00497,2025-06-02,Stationery,Pen Set,5,198.59,0.1,893.67,499.24,East,Online,394.43
+ORD00498,2025-08-12,Electronics,Headphones,5,663.99,0.1,2987.95,1872.27,North,Online,1115.68
+ORD00499,2025-04-17,Fitness,Yoga Mat,2,1290.88,0.0,2581.76,1430.59,West,In-store,1151.17
+ORD00500,2025-10-12,Electronics,Wireless Mouse,3,1322.07,0.1,3569.59,2662.59,Central,Online,907.0
+ORD00501,2025-05-28,Electronics,Wireless Mouse,3,1560.53,0.05,4447.51,3456.85,North,Marketplace,990.66
+ORD00502,2025-07-03,Home,Cushion,5,885.62,0.1,3985.29,2662.6,West,Online,1322.69
+ORD00503,2025-06-20,Stationery,Notebook,4,245.43,0.0,981.71,620.4,North,Marketplace,361.31
+ORD00504,2025-04-23,Stationery,Pen Set,3,309.24,0.15,788.57,475.44,West,Marketplace,313.13
+ORD00505,2025-12-31,Electronics,Wireless Mouse,4,1947.8,0.0,7791.2,4419.0,North,In-store,3372.2
+ORD00506,2025-10-04,Fitness,Resistance Band,3,940.21,0.15,2397.53,1701.57,North,In-store,695.96
+ORD00507,2025-01-11,Stationery,Pen Set,3,353.24,0.2,847.79,535.2,North,Online,312.59
+ORD00508,2025-07-17,Home,Water Bottle,5,1186.1,0.1,5337.45,3346.22,South,In-store,1991.23
+ORD00509,2025-03-06,Electronics,USB Hub,3,2849.79,0.1,7694.43,5481.8,South,Marketplace,2212.63
+ORD00510,2025-01-04,Electronics,USB Hub,3,825.06,0.0,2475.18,1563.22,South,In-store,911.96
+ORD00511,2025-04-27,Home,Storage Box,1,348.08,0.1,313.27,228.52,North,Marketplace,84.75
+ORD00512,2025-06-19,Fitness,Yoga Mat,3,1008.64,0.15,2572.02,1518.97,Central,Marketplace,1053.05
+ORD00513,2025-07-10,Stationery,Markers,1,243.56,0.05,231.38,135.03,West,Online,96.35
+ORD00514,2025-07-22,Home,Storage Box,2,1136.63,0.0,2273.25,1534.85,West,In-store,738.4
+ORD00515,2025-12-28,Home,Storage Box,5,308.13,0.2,1232.51,713.01,South,In-store,519.5
+ORD00516,2025-09-10,Electronics,Keyboard,4,1916.77,0.15,6517.02,4234.08,West,Online,2282.94
+ORD00517,2025-10-19,Electronics,USB Hub,5,2616.01,0.1,11772.04,6784.76,North,Online,4987.28
+ORD00518,2025-12-10,Home,Desk Lamp,5,1331.61,0.2,5326.43,3334.67,Central,In-store,1991.76
+ORD00519,2025-05-13,Electronics,Headphones,2,3133.32,0.05,5953.3,4205.01,South,In-store,1748.29
+ORD00520,2025-10-15,Stationery,Markers,4,110.72,0.1,398.59,272.73,East,Online,125.86
+ORD00521,2025-10-20,Fitness,Resistance Band,1,1481.07,0.1,1332.97,964.54,West,In-store,368.43
+ORD00522,2025-09-28,Electronics,Headphones,2,1175.63,0.15,1998.56,1165.51,North,In-store,833.05
+ORD00523,2025-01-08,Stationery,Notebook,1,152.1,0.0,152.1,93.74,South,In-store,58.36
+ORD00524,2025-08-17,Stationery,Notebook,3,441.49,0.05,1258.25,806.45,East,Online,451.8
+ORD00525,2025-08-08,Fitness,Resistance Band,5,457.0,0.0,2284.98,1385.91,West,In-store,899.07
+ORD00526,2025-02-07,Fitness,Yoga Mat,2,768.58,0.1,1383.44,799.8,Central,Online,583.64
+ORD00527,2025-08-27,Home,Cushion,2,466.32,0.0,932.63,495.6,East,In-store,437.03
+ORD00528,2025-09-14,Stationery,Markers,5,284.62,0.1,1280.78,731.6,North,Online,549.18
+ORD00529,2025-04-28,Home,Cushion,3,784.29,0.15,1999.95,1367.31,West,Online,632.64
+ORD00530,2025-04-28,Home,Storage Box,3,187.02,0.0,561.06,368.31,South,In-store,192.75
+ORD00531,2025-07-22,Electronics,Keyboard,5,1029.79,0.0,5148.96,3100.81,South,In-store,2048.15
+ORD00532,2025-03-25,Fitness,Yoga Mat,3,560.84,0.05,1598.39,1063.29,West,Online,535.1
+ORD00533,2025-11-27,Fitness,Shaker Bottle,2,288.78,0.0,577.56,324.54,South,In-store,253.02
+ORD00534,2025-07-07,Fitness,Yoga Mat,2,1005.08,0.0,2010.17,1224.89,South,In-store,785.28
+ORD00535,2025-06-01,Home,Storage Box,5,857.57,0.1,3859.04,2181.75,East,In-store,1677.29
+ORD00536,2025-12-07,Electronics,Keyboard,5,1711.49,0.0,8557.45,5367.06,North,Marketplace,3190.39
+ORD00537,2025-03-26,Home,Desk Lamp,2,955.64,0.15,1624.59,1208.82,East,Marketplace,415.77
+ORD00538,2025-08-13,Electronics,Keyboard,5,2967.68,0.1,13354.56,9849.48,South,Online,3505.08
+ORD00539,2025-05-29,Stationery,Markers,4,466.14,0.15,1584.88,846.3,East,Marketplace,738.58
+ORD00540,2025-06-07,Home,Storage Box,1,951.19,0.0,951.19,721.33,East,Marketplace,229.86
+ORD00541,2025-11-09,Electronics,USB Hub,1,1119.49,0.0,1119.49,593.74,South,In-store,525.75
+ORD00542,2025-07-25,Stationery,Markers,1,192.34,0.15,163.49,105.56,East,Marketplace,57.93
+ORD00543,2025-07-12,Electronics,Wireless Mouse,4,718.29,0.0,2873.16,1736.64,East,Online,1136.52
+ORD00544,2025-12-28,Home,Desk Lamp,5,332.2,0.1,1494.89,919.74,South,Marketplace,575.15
+ORD00545,2025-04-01,Electronics,USB Hub,2,2635.12,0.0,5270.24,2806.98,North,In-store,2463.26
+ORD00546,2025-07-12,Home,Water Bottle,5,708.12,0.0,3540.62,2638.49,South,Online,902.13
+ORD00547,2025-02-09,Home,Desk Lamp,5,1032.2,0.1,4644.92,3478.54,Central,Marketplace,1166.38
+ORD00548,2025-10-02,Home,Desk Lamp,4,523.09,0.05,1987.75,1121.55,West,Online,866.2
+ORD00549,2025-04-27,Electronics,Keyboard,5,672.53,0.2,2690.13,2036.04,East,In-store,654.09
+ORD00550,2025-01-14,Home,Desk Lamp,4,327.88,0.0,1311.51,717.08,East,In-store,594.43
+ORD00551,2025-04-30,Home,Cushion,1,429.81,0.2,343.85,215.09,East,Marketplace,128.76
+ORD00552,2025-03-09,Stationery,Planner,4,299.82,0.0,1199.28,719.02,Central,Online,480.26
+ORD00553,2025-05-23,Home,Cushion,4,442.11,0.05,1680.03,900.76,South,Online,779.27
+ORD00554,2025-11-16,Stationery,Markers,3,236.25,0.1,637.88,428.73,East,Online,209.15
+ORD00555,2025-08-28,Fitness,Skipping Rope,2,1667.13,0.05,3167.55,2434.73,Central,In-store,732.82
+ORD00556,2025-05-20,Fitness,Skipping Rope,3,484.46,0.1,1308.04,1005.85,South,Online,302.19
+ORD00557,2025-09-28,Fitness,Yoga Mat,2,1087.72,0.0,2175.44,1475.38,South,In-store,700.06
+ORD00558,2025-09-01,Fitness,Resistance Band,2,586.26,0.0,1172.51,637.92,West,In-store,534.59
+ORD00559,2025-12-16,Stationery,Markers,4,330.83,0.0,1323.3,751.4,South,In-store,571.9
+ORD00560,2025-05-07,Electronics,Keyboard,5,2396.53,0.2,9586.12,5998.9,West,Online,3587.22
+ORD00561,2025-10-08,Electronics,USB Hub,4,3084.67,0.1,11104.8,8434.32,East,Online,2670.48
+ORD00562,2025-09-29,Stationery,Pen Set,2,204.59,0.1,368.27,255.26,South,Marketplace,113.01
+ORD00563,2025-10-02,Electronics,USB Hub,2,579.14,0.0,1158.27,820.16,West,Online,338.11
+ORD00564,2025-11-30,Electronics,Headphones,3,2747.13,0.2,6593.12,4449.47,South,In-store,2143.65
+ORD00565,2025-03-28,Home,Desk Lamp,5,262.04,0.15,1113.65,854.7,East,In-store,258.95
+ORD00566,2025-04-26,Fitness,Skipping Rope,1,1155.74,0.1,1040.16,725.27,South,Online,314.89
+ORD00567,2025-01-21,Stationery,Notebook,2,360.48,0.0,720.97,419.52,West,In-store,301.45
+ORD00568,2025-06-16,Electronics,Wireless Mouse,3,3287.05,0.05,9368.11,5927.87,West,In-store,3440.24
+ORD00569,2025-02-14,Home,Desk Lamp,2,209.21,0.05,397.5,221.84,East,In-store,175.66
+ORD00570,2025-03-01,Home,Storage Box,1,1336.26,0.0,1336.26,760.43,West,Marketplace,575.83
+ORD00571,2025-01-11,Home,Desk Lamp,1,364.24,0.05,346.03,250.6,North,Marketplace,95.43
+ORD00572,2025-12-13,Stationery,Markers,5,316.46,0.05,1503.19,1038.84,South,In-store,464.35
+ORD00573,2025-02-28,Stationery,Pen Set,1,474.22,0.0,474.22,346.7,Central,Online,127.52
+ORD00574,2025-04-09,Fitness,Shaker Bottle,3,912.96,0.0,2738.88,1833.3,East,Marketplace,905.58
+ORD00575,2025-08-19,Electronics,USB Hub,5,2067.72,0.0,10338.59,7218.22,North,Online,3120.37
+ORD00576,2025-01-21,Stationery,Notebook,2,105.04,0.0,210.08,143.79,West,Online,66.29
+ORD00577,2025-10-05,Fitness,Skipping Rope,2,921.52,0.1,1658.73,1293.32,North,Online,365.41
+ORD00578,2025-05-14,Home,Water Bottle,5,1473.24,0.05,6997.91,4996.02,East,Online,2001.89
+ORD00579,2025-07-21,Stationery,Markers,2,155.23,0.0,310.47,163.34,South,Marketplace,147.13
+ORD00580,2025-02-11,Home,Water Bottle,4,1418.6,0.05,5390.69,3904.75,North,In-store,1485.94
+ORD00581,2025-06-11,Electronics,Headphones,3,1877.66,0.0,5632.98,3211.44,North,In-store,2421.54
+ORD00582,2025-04-02,Home,Storage Box,2,1126.61,0.0,2253.21,1287.77,North,Marketplace,965.44
+ORD00583,2025-03-21,Fitness,Shaker Bottle,2,1543.38,0.15,2623.74,1567.55,West,In-store,1056.19
+ORD00584,2025-12-18,Electronics,Keyboard,1,2126.37,0.0,2126.37,1642.85,West,In-store,483.52
+ORD00585,2025-11-14,Stationery,Notebook,3,201.11,0.1,542.99,406.45,South,In-store,136.54
+ORD00586,2025-02-24,Stationery,Pen Set,2,86.55,0.2,138.48,80.91,West,In-store,57.57
+ORD00587,2025-01-02,Electronics,Headphones,1,3131.68,0.15,2661.93,1609.82,North,Online,1052.11
+ORD00588,2025-11-07,Stationery,Markers,2,216.9,0.1,390.42,275.77,East,Marketplace,114.65
+ORD00589,2025-11-30,Home,Water Bottle,2,1039.89,0.1,1871.79,977.92,East,Online,893.87
+ORD00590,2025-06-01,Fitness,Shaker Bottle,1,307.69,0.15,261.53,197.9,East,In-store,63.63
+ORD00591,2025-12-04,Home,Water Bottle,1,772.27,0.1,695.04,413.27,West,In-store,281.77
+ORD00592,2025-06-10,Electronics,Headphones,1,2998.68,0.0,2998.68,2059.58,North,In-store,939.1
+ORD00593,2025-12-22,Electronics,USB Hub,4,2691.29,0.05,10226.91,5796.01,East,Online,4430.9
+ORD00594,2025-09-02,Electronics,Wireless Mouse,3,1250.85,0.05,3564.91,2592.45,West,Marketplace,972.46
+ORD00595,2025-02-17,Home,Desk Lamp,4,991.59,0.0,3966.36,2973.5,East,Marketplace,992.86
+ORD00596,2025-04-16,Home,Storage Box,2,1472.21,0.1,2649.98,1666.36,East,Online,983.62
+ORD00597,2025-12-20,Home,Water Bottle,1,1159.26,0.1,1043.33,768.3,West,In-store,275.03
+ORD00598,2025-07-20,Home,Cushion,4,1460.5,0.15,4965.69,3059.92,Central,Marketplace,1905.77
+ORD00599,2025-02-08,Home,Cushion,1,759.82,0.0,759.82,547.09,Central,Online,212.73
+ORD00600,2025-07-15,Electronics,Headphones,2,3059.6,0.2,4895.35,3632.66,East,Online,1262.69
+ORD00601,2025-10-11,Fitness,Yoga Mat,1,863.28,0.2,690.62,509.83,North,In-store,180.79
+ORD00602,2025-07-20,Stationery,Planner,5,87.91,0.15,373.6,291.09,North,Online,82.51
+ORD00603,2025-12-30,Electronics,Headphones,4,646.28,0.15,2197.35,1514.27,South,In-store,683.08
+ORD00604,2025-04-11,Electronics,USB Hub,1,3153.52,0.2,2522.82,1713.78,Central,,809.04
+ORD00605,2025-01-02,Fitness,Yoga Mat,2,1635.11,0.1,2943.2,1582.22,North,Marketplace,1360.98
+ORD00606,2025-12-20,Fitness,Skipping Rope,1,1404.62,0.0,1404.62,952.99,South,Online,451.63
+ORD00607,2025-09-07,Home,Desk Lamp,2,266.03,0.2,425.65,273.35,East,Marketplace,152.3
+ORD00608,2025-05-09,Stationery,Pen Set,4,442.89,0.1,1594.4,921.72,South,Online,672.68
+ORD00609,2025-07-09,Stationery,Planner,3,497.94,0.05,1419.13,1057.5,South,Online,361.63
+ORD00610,2025-10-25,Fitness,Shaker Bottle,5,1305.13,0.0,6525.64,3587.07,Central,Marketplace,2938.57
+ORD00611,2025-09-26,Stationery,Planner,3,222.23,0.1,600.01,430.61,East,In-store,169.4
+ORD00612,2025-09-15,Stationery,Planner,5,387.28,0.0,1936.39,1348.78,East,Marketplace,587.61
+ORD00613,2025-06-24,Home,Storage Box,4,442.77,0.1,1593.96,1179.27,West,Online,414.69
+ORD00614,2025-02-27,Home,Water Bottle,3,509.85,0.1,1376.59,822.62,Central,Online,553.97
+ORD00615,2025-12-09,Stationery,Planner,3,275.8,0.0,827.41,511.35,South,In-store,316.06
+ORD00616,2025-06-18,Home,Desk Lamp,1,1514.95,0.15,1287.71,1002.69,Central,Marketplace,285.02
+ORD00617,2025-06-21,Electronics,USB Hub,2,582.19,0.1,1047.95,613.72,West,In-store,434.23
+ORD00618,2025-09-26,Stationery,Notebook,4,420.08,0.0,1680.32,959.02,West,In-store,721.3
+ORD00619,2025-12-25,Electronics,Headphones,1,922.66,0.0,922.66,650.71,South,Online,271.95
+ORD00620,2025-10-14,Electronics,Keyboard,3,3377.43,0.0,10132.3,7488.97,Central,Online,2643.33
+ORD00621,2025-06-13,Fitness,Skipping Rope,3,1443.44,0.0,4330.33,3198.39,East,Marketplace,1131.94
+ORD00622,2025-01-10,Fitness,Yoga Mat,3,1610.22,0.1,4347.6,2965.57,East,Online,1382.03
+ORD00623,2025-11-19,Electronics,Headphones,5,769.63,0.1,3463.35,2519.46,West,Marketplace,943.89
+ORD00624,2025-06-19,Electronics,USB Hub,3,478.47,0.0,1435.41,1052.22,West,Marketplace,383.19
+ORD00625,2025-01-08,Fitness,Yoga Mat,1,598.94,0.0,598.94,397.51,South,In-store,201.43
+ORD00626,2025-11-02,Stationery,Pen Set,5,107.96,0.0,539.78,317.76,North,Online,222.02
+ORD00627,2025-03-18,Stationery,Planner,2,249.64,0.0,499.28,315.47,West,Marketplace,183.81
+ORD00628,2025-09-01,Electronics,Headphones,3,1392.03,0.0,4176.09,2925.52,South,Online,1250.57
+ORD00629,2025-03-07,Stationery,Notebook,2,217.36,0.1,391.24,304.7,Central,Marketplace,86.54
+ORD00630,2025-05-06,Stationery,Notebook,2,270.4,0.15,459.68,279.26,West,Marketplace,180.42
+ORD00631,2025-06-20,Home,Storage Box,1,1527.55,0.1,1374.79,1059.25,Central,Marketplace,315.54
+ORD00632,2025-07-31,Home,Storage Box,4,1398.79,0.0,5595.18,3737.5,East,Online,1857.68
+ORD00633,2025-12-02,Electronics,Wireless Mouse,3,2448.89,0.15,6244.67,4389.02,North,Online,1855.65
+ORD00634,2025-01-22,Electronics,Headphones,4,927.06,0.2,2966.58,2231.62,West,Online,734.96
+ORD00635,2025-01-18,Fitness,Yoga Mat,5,1678.09,0.0,8390.47,5167.2,East,Online,3223.27
+ORD00636,2025-12-29,Electronics,Wireless Mouse,5,3123.8,0.05,14838.07,9464.66,West,Online,5373.41
+ORD00637,2025-09-19,Stationery,Markers,5,220.67,0.0,1103.33,717.78,East,Online,385.55
+ORD00638,2025-03-24,Fitness,Shaker Bottle,4,1112.77,0.15,3783.43,2839.73,West,In-store,943.7
+ORD00639,2025-08-04,Home,Desk Lamp,1,632.0,0.0,632.0,376.1,North,In-store,255.9
+ORD00640,2025-01-05,Electronics,USB Hub,3,1008.12,0.05,2873.13,1545.33,North,Marketplace,1327.8
+ORD00641,2025-11-07,Electronics,Wireless Mouse,1,2196.75,0.05,2086.91,1216.23,South,Online,870.68
+ORD00642,2025-02-12,Electronics,Headphones,1,2329.6,0.0,2329.6,1536.98,North,In-store,792.62
+ORD00643,2025-01-01,Electronics,Headphones,3,1053.19,0.2,2527.66,1958.28,North,Online,569.38
+ORD00644,2025-01-31,Stationery,Pen Set,4,477.94,0.15,1625.01,1008.39,West,Online,616.62
+ORD00645,2025-07-05,Fitness,Resistance Band,1,746.73,0.0,746.73,450.01,South,Marketplace,296.72
+ORD00646,2025-02-12,Home,Water Bottle,1,1079.73,0.0,1079.73,630.77,South,Marketplace,448.96
+ORD00647,2025-09-09,Electronics,USB Hub,1,1807.36,0.1,1626.62,1104.7,West,In-store,521.92
+ORD00648,2025-12-02,Home,Cushion,4,1316.83,0.0,5267.31,3317.64,South,Online,1949.67
+ORD00649,2025-04-12,Home,Storage Box,1,1500.67,0.0,1500.67,1002.96,Central,Marketplace,497.71
+ORD00650,2025-06-17,Stationery,Planner,4,491.25,0.05,1866.75,1178.5,West,In-store,688.25
+ORD00651,2025-08-14,Fitness,Shaker Bottle,4,258.74,0.1,931.46,680.86,West,Marketplace,250.6
+ORD00652,2025-09-20,Stationery,Notebook,1,321.04,0.0,321.04,183.2,East,In-store,137.84
+ORD00653,2025-04-24,Electronics,Wireless Mouse,3,2854.07,0.1,7705.98,5005.53,East,In-store,2700.45
+ORD00654,2025-09-05,Electronics,Wireless Mouse,5,1657.09,0.0,8285.44,5924.05,South,In-store,2361.39
+ORD00655,2025-11-30,Stationery,Markers,2,359.98,0.05,683.97,434.74,South,Online,249.23
+ORD00656,2025-07-06,Electronics,Headphones,3,795.97,0.05,2268.5,1715.13,Central,In-store,553.37
+ORD00657,2025-12-19,Fitness,Skipping Rope,2,1269.92,0.15,2158.86,1440.26,West,Online,718.6
+ORD00658,2025-10-16,Electronics,Wireless Mouse,1,959.47,0.1,863.52,534.04,North,Marketplace,329.48
+ORD00659,2025-09-18,Electronics,Keyboard,3,1538.9,0.0,4616.71,2979.49,South,Online,1637.22
+ORD00660,2025-01-20,Electronics,USB Hub,4,2598.51,0.15,8834.93,4679.92,North,Online,4155.01
+ORD00661,2025-03-11,Home,Water Bottle,2,187.43,0.0,374.87,258.91,West,In-store,115.96
+ORD00662,2025-04-08,Stationery,Notebook,4,425.77,0.1,1532.77,1183.03,South,In-store,349.74
+ORD00663,2025-12-08,Fitness,Shaker Bottle,4,410.68,0.15,1396.32,1018.15,West,Marketplace,378.17
+ORD00664,2025-03-16,Fitness,Resistance Band,5,1356.05,0.0,6780.23,4747.55,East,Marketplace,2032.68
+ORD00665,2025-01-25,Home,Water Bottle,4,1376.63,0.1,4955.85,3228.82,East,In-store,1727.03
+ORD00666,2025-08-08,Home,Storage Box,4,698.83,0.1,2515.8,1428.76,Central,Marketplace,1087.04
+ORD00667,2025-11-13,Stationery,Pen Set,3,480.5,0.05,1369.43,977.82,South,Online,391.61
+ORD00668,2025-02-25,Home,Desk Lamp,3,1415.89,0.05,4035.3,2396.39,Central,In-store,1638.91
+ORD00669,2025-10-13,Fitness,Resistance Band,4,1670.83,0.15,5680.82,3593.85,South,Marketplace,2086.97
+ORD00670,2025-12-11,Home,Desk Lamp,3,834.48,0.1,2253.1,1247.21,Central,Marketplace,1005.89
+ORD00671,2025-04-28,Home,Storage Box,3,952.43,0.0,2857.28,2208.87,West,Marketplace,648.41
+ORD00672,2025-04-19,Electronics,Keyboard,2,3120.96,0.15,5305.64,3667.41,East,Marketplace,1638.23
+ORD00673,2025-12-26,Electronics,Wireless Mouse,5,1290.94,0.0,6454.72,4407.06,South,Online,2047.66
+ORD00674,2025-10-05,Stationery,Notebook,1,296.16,0.0,296.16,170.0,North,Online,126.16
+ORD00675,2025-05-25,Home,Water Bottle,1,1545.21,0.0,1545.21,810.74,West,In-store,734.47
+ORD00676,2025-07-15,Fitness,Resistance Band,3,1604.85,0.1,4333.09,2637.65,West,In-store,1695.44
+ORD00677,2025-12-05,Stationery,Pen Set,4,92.65,0.05,352.06,195.56,East,In-store,156.5
+ORD00678,2025-12-01,Electronics,Keyboard,3,2277.4,0.15,5807.36,3888.05,West,In-store,1919.31
+ORD00679,2025-05-13,Fitness,Shaker Bottle,5,1304.15,0.05,6194.73,4322.47,West,Online,1872.26
+ORD00680,2025-06-29,Electronics,Keyboard,5,1284.33,0.1,5779.46,3772.33,North,Marketplace,2007.13
+ORD00681,2025-08-14,Electronics,Wireless Mouse,4,2631.13,0.0,10524.51,7486.66,Central,Marketplace,3037.85
+ORD00682,2025-08-10,Home,Cushion,1,974.23,0.15,828.1,521.82,East,Online,306.28
+ORD00683,2025-01-06,Home,Storage Box,4,1409.32,0.15,4791.7,2808.81,West,In-store,1982.89
+ORD00684,2025-04-06,Fitness,Yoga Mat,2,1556.61,0.0,3113.21,1976.62,South,In-store,1136.59
+ORD00685,2025-11-25,Home,Water Bottle,3,624.13,0.15,1591.54,844.46,Central,Online,747.08
+ORD00686,2025-07-30,Stationery,Notebook,5,122.51,0.0,612.55,393.29,West,Marketplace,219.26
+ORD00687,2025-02-22,Stationery,Markers,2,246.39,0.0,492.78,300.12,Central,Online,192.66
+ORD00688,2025-07-07,Electronics,Keyboard,1,705.0,0.0,705.0,448.84,East,Online,256.16
+ORD00689,2025-09-01,Electronics,USB Hub,3,1992.25,0.2,4781.4,3130.28,South,Online,1651.12
+ORD00690,2025-07-24,Electronics,USB Hub,1,2650.95,0.15,2253.3,1217.73,Central,Online,1035.57
+ORD00691,2025-07-13,Home,Desk Lamp,5,1419.39,0.05,6742.08,3712.95,Central,In-store,3029.13
+ORD00692,2025-07-29,Stationery,Pen Set,4,453.24,0.1,1631.65,1122.16,South,In-store,509.49
+ORD00693,2025-08-11,Home,Water Bottle,4,1248.54,0.15,4245.04,2871.59,West,Online,1373.45
+ORD00694,2025-04-04,Home,Water Bottle,4,1551.77,0.0,6207.08,4346.03,East,In-store,1861.05
+ORD00695,2025-11-05,Fitness,Skipping Rope,5,349.35,0.05,1659.43,870.42,North,Marketplace,789.01
+ORD00696,2025-09-25,Electronics,Keyboard,5,772.09,0.0,3860.47,2725.31,East,Online,1135.16
+ORD00697,2025-08-01,Home,Water Bottle,1,331.81,0.0,331.81,195.57,Central,In-store,136.24
+ORD00698,2025-06-06,Electronics,Keyboard,1,488.23,0.0,488.23,342.73,West,Marketplace,145.5
+ORD00699,2025-01-20,Electronics,Headphones,5,2217.21,0.1,9977.45,7247.71,South,In-store,2729.74
+ORD00700,2025-03-17,Fitness,Yoga Mat,3,315.19,0.0,945.58,717.06,North,Online,228.52
+ORD00701,2025-07-17,Stationery,Planner,5,279.62,0.1,1258.3,967.99,West,Online,290.31
+ORD00702,2025-11-19,Home,Desk Lamp,4,1381.9,0.15,4698.46,3025.9,North,Online,1672.56
+ORD00703,2025-12-30,Fitness,Yoga Mat,2,1292.88,0.0,2585.77,1637.51,Central,In-store,948.26
+ORD00704,2025-08-30,Home,Water Bottle,3,1010.99,0.05,2881.32,2204.08,Central,Marketplace,677.24
+ORD00705,2025-09-23,Home,Desk Lamp,3,235.25,0.05,670.45,397.35,South,In-store,273.1
+ORD00706,2025-07-23,Stationery,Notebook,3,490.45,0.05,1397.77,906.43,East,Online,491.34
+ORD00707,2025-05-20,Home,Storage Box,4,374.35,0.1,1347.66,920.4,Central,In-store,427.26
+ORD00708,2025-08-17,Fitness,Shaker Bottle,3,869.43,0.0,2608.29,1643.82,North,In-store,964.47
+ORD00709,2025-06-18,Electronics,Keyboard,2,2743.32,0.15,4663.64,3390.36,North,In-store,1273.28
+ORD00710,2025-08-06,Electronics,USB Hub,5,2867.16,0.0,14335.8,7486.15,Central,Online,6849.65
+ORD00711,2025-08-07,Electronics,Keyboard,4,2053.89,0.0,8215.56,5932.64,Central,In-store,2282.92
+ORD00712,2025-10-19,Electronics,Keyboard,2,3149.77,0.1,5669.59,4289.42,Central,Marketplace,1380.17
+ORD00713,2025-11-23,Home,Cushion,4,839.95,0.0,3359.81,2256.37,East,Marketplace,1103.44
+ORD00714,2025-05-21,Home,Cushion,3,944.51,0.05,2691.86,1668.62,East,In-store,1023.24
+ORD00715,2025-10-15,Electronics,Headphones,4,1990.17,0.15,6766.56,4178.0,South,Online,2588.56
+ORD00716,2025-08-19,Stationery,Planner,1,127.42,0.0,127.42,79.75,South,In-store,47.67
+ORD00717,2025-10-05,Home,Cushion,2,1270.6,0.05,2414.13,1750.0,North,In-store,664.13
+ORD00718,2025-02-08,Home,Desk Lamp,1,428.78,0.0,428.78,331.0,South,In-store,97.78
+ORD00719,2025-02-03,Fitness,Resistance Band,3,223.96,0.15,571.1,389.03,West,Marketplace,182.07
+ORD00720,2025-04-04,Stationery,Pen Set,1,114.67,0.1,103.2,80.05,Central,Marketplace,23.15
+ORD00721,2025-08-01,Stationery,Planner,5,316.56,0.0,1582.8,994.89,South,In-store,587.91
+ORD00722,2025-05-16,Fitness,Skipping Rope,5,739.08,0.0,3695.41,2236.83,East,Online,1458.58
+ORD00723,2025-09-12,Electronics,Keyboard,2,3212.56,0.05,6103.86,3995.45,North,In-store,2108.41
+ORD00724,2025-09-06,Home,Storage Box,3,784.96,0.1,2119.39,1116.44,Central,Online,1002.95
+ORD00725,2025-11-20,Stationery,Markers,1,222.98,0.2,178.38,137.14,East,Marketplace,41.24
+ORD00726,2025-08-18,Stationery,Pen Set,3,69.33,0.0,207.98,114.85,Central,Marketplace,93.13
+ORD00727,2025-08-25,Electronics,USB Hub,4,3339.8,0.0,13359.18,8605.84,Central,Online,4753.34
+ORD00728,2025-12-27,Fitness,Shaker Bottle,5,1266.57,0.1,5699.55,4074.78,Central,Marketplace,1624.77
+ORD00729,2025-07-20,Home,Water Bottle,4,1012.12,0.05,3846.07,2508.67,South,Online,1337.4
+ORD00730,2025-11-29,Electronics,Wireless Mouse,3,1392.36,0.1,3759.36,2636.01,West,In-store,1123.35
+ORD00731,2025-04-17,Stationery,Notebook,5,164.58,0.05,781.75,518.01,East,Marketplace,263.74
+ORD00732,2025-09-22,Stationery,Pen Set,5,449.56,0.2,1798.26,990.82,Central,In-store,807.44
+ORD00733,2025-10-12,Stationery,Notebook,3,207.78,0.05,592.18,334.99,East,In-store,257.19
+ORD00734,2025-07-26,Electronics,Keyboard,5,2090.43,0.15,8884.33,5455.05,West,Online,3429.28
+ORD00735,2025-01-16,Fitness,Resistance Band,3,1457.66,0.1,3935.68,3037.92,Central,In-store,897.76
+ORD00736,2025-04-26,Stationery,Pen Set,5,65.09,0.0,325.45,180.06,North,Online,145.39
+ORD00737,2025-05-26,Fitness,Resistance Band,3,826.22,0.15,2106.85,1502.04,West,Online,604.81
+ORD00738,2025-07-12,Stationery,Markers,1,413.32,0.0,413.32,271.7,East,Online,141.62
+ORD00739,2025-01-13,Fitness,Shaker Bottle,1,810.47,0.0,810.47,427.12,East,In-store,383.35
+ORD00740,2025-05-04,Fitness,Skipping Rope,5,1159.52,0.0,5797.61,3937.45,Central,Marketplace,1860.16
+ORD00741,2025-04-06,Electronics,Headphones,2,1090.25,0.0,2180.51,1552.56,Central,Online,627.95
+ORD00742,2025-03-14,Stationery,Markers,1,482.5,0.05,458.38,277.19,East,In-store,181.19
+ORD00743,2025-11-22,Electronics,USB Hub,5,1124.73,0.05,5342.44,3968.1,North,Marketplace,1374.34
+ORD00744,2025-03-04,Home,Storage Box,3,546.35,0.15,1393.19,985.15,East,Marketplace,408.04
+ORD00745,2025-10-25,Home,Water Bottle,4,464.72,0.15,1580.04,1011.34,South,In-store,568.7
+ORD00746,2025-12-15,Electronics,USB Hub,2,2917.59,0.1,5251.66,3764.15,North,Marketplace,1487.51
+ORD00747,2025-01-13,Electronics,Wireless Mouse,1,1450.78,0.15,1233.16,858.03,South,,375.13
+ORD00748,2025-03-27,Home,Desk Lamp,1,642.22,0.0,642.22,379.13,South,Online,263.09
+ORD00749,2025-10-11,Stationery,Markers,3,480.64,0.1,1297.74,854.11,Central,In-store,443.63
+ORD00750,2025-09-09,Home,Cushion,3,1095.19,0.2,2628.46,1960.29,South,Online,668.17
+ORD00751,2025-12-26,Fitness,Skipping Rope,2,920.86,0.1,1657.56,918.16,East,Online,739.4
+ORD00752,2025-02-19,Stationery,Pen Set,3,111.86,0.1,302.03,217.17,East,Online,84.86
+ORD00753,2025-01-11,Fitness,Shaker Bottle,4,1161.43,0.1,4181.13,2972.88,Central,Marketplace,1208.25
+ORD00754,2025-09-29,Fitness,Shaker Bottle,1,464.74,0.1,418.26,266.35,North,In-store,151.91
+ORD00755,2025-04-06,Stationery,Notebook,5,130.53,0.0,652.64,424.85,East,Online,227.79
+ORD00756,2025-05-11,Stationery,Planner,5,487.61,0.0,2438.04,1431.87,Central,In-store,1006.17
+ORD00757,2025-05-08,Stationery,Pen Set,2,159.87,0.0,319.74,221.04,East,In-store,98.7
+ORD00758,2025-06-29,Home,Desk Lamp,1,1536.18,0.1,1382.56,967.88,North,In-store,414.68
+ORD00759,2025-05-10,Home,Cushion,1,1029.43,0.0,1029.43,581.78,West,In-store,447.65
+ORD00760,2025-08-29,Stationery,Planner,5,71.4,0.1,321.3,190.06,North,Online,131.24
+ORD00761,2025-11-08,Electronics,Keyboard,1,2047.54,0.0,2047.54,1234.7,North,Marketplace,812.84
+ORD00762,2025-03-23,Home,Cushion,1,692.09,0.05,657.48,448.9,Central,In-store,208.58
+ORD00763,2025-01-03,Fitness,Skipping Rope,3,944.71,0.2,2267.29,1697.21,North,Marketplace,570.08
+ORD00764,2025-07-15,Stationery,Markers,4,321.0,0.0,1284.01,817.35,South,Marketplace,466.66
+ORD00765,2025-12-20,Stationery,Pen Set,1,291.47,0.1,262.33,140.13,South,Online,122.2
+ORD00766,2025-05-11,Fitness,Shaker Bottle,4,583.08,0.1,2099.1,1504.59,North,In-store,594.51
+ORD00767,2025-03-06,Stationery,Planner,4,79.5,0.0,318.0,242.46,Central,In-store,75.54
+ORD00768,2025-07-29,Electronics,USB Hub,2,1021.05,0.0,2042.11,1404.99,West,Marketplace,637.12
+ORD00769,2025-05-05,Stationery,Notebook,1,249.9,0.15,212.42,136.81,East,Marketplace,75.61
+ORD00770,2025-10-15,Electronics,Keyboard,5,835.56,0.05,3968.89,2701.55,South,Online,1267.34
+ORD00771,2025-12-20,Electronics,USB Hub,5,3411.04,0.0,17055.2,10610.88,Central,Marketplace,6444.32
+ORD00772,2025-12-20,Home,Storage Box,1,551.35,0.15,468.65,287.71,South,In-store,180.94
+ORD00773,2025-08-19,Home,Cushion,5,857.97,0.1,3860.84,2293.78,Central,Online,1567.06
+ORD00774,2025-07-15,Home,Water Bottle,4,841.26,0.0,3365.06,1887.76,East,Marketplace,1477.3
+ORD00775,2025-09-21,Stationery,Notebook,3,104.98,0.1,283.44,182.69,West,Marketplace,100.75
+ORD00776,2025-03-09,Fitness,Skipping Rope,3,1662.13,0.2,3989.11,2383.64,North,Marketplace,1605.47
+ORD00777,2025-07-18,Home,Water Bottle,5,361.55,0.05,1717.34,1049.53,South,In-store,667.81
+ORD00778,2025-01-23,Fitness,Resistance Band,2,405.66,0.0,811.32,469.19,Central,Online,342.13
+ORD00779,2025-03-14,Electronics,Wireless Mouse,2,2701.87,0.0,5403.75,4214.73,West,Marketplace,1189.02
+ORD00780,2025-04-28,Electronics,Headphones,1,2021.86,0.1,1819.68,1224.97,East,Online,594.71
+ORD00781,2025-09-16,Stationery,Pen Set,4,342.77,0.0,1371.08,1025.82,East,Online,345.26
+ORD00782,2025-03-14,Electronics,Wireless Mouse,3,1312.39,0.2,3149.74,1770.14,South,In-store,1379.6
+ORD00783,2025-06-23,Fitness,Skipping Rope,5,215.46,0.05,1023.44,556.01,South,Online,467.43
+ORD00784,2025-11-18,Fitness,Yoga Mat,2,277.39,0.1,499.3,343.01,South,In-store,156.29
+ORD00785,2025-07-03,Home,Desk Lamp,3,605.54,0.2,1453.3,959.19,West,In-store,494.11
+ORD00786,2025-08-27,Electronics,USB Hub,2,1920.44,0.2,3072.7,1600.59,West,Online,1472.11
+ORD00787,2025-06-13,Electronics,USB Hub,4,2274.14,0.05,8641.75,5363.93,East,Online,3277.82
+ORD00788,2025-06-04,Electronics,Keyboard,2,3220.43,0.15,5474.73,3264.77,North,Marketplace,2209.96
+ORD00789,2025-01-06,Electronics,USB Hub,1,940.22,0.15,799.19,438.05,Central,Marketplace,361.14
+ORD00790,2025-07-03,Home,Storage Box,4,184.87,0.0,739.49,469.86,Central,In-store,269.63
+ORD00791,2025-09-02,Stationery,Pen Set,5,308.47,0.1,1388.14,743.26,West,In-store,644.88
+ORD00792,2025-11-14,Home,Storage Box,1,675.86,0.05,642.07,411.02,Central,Online,231.05
+ORD00793,2025-03-20,Electronics,Wireless Mouse,2,2830.57,0.0,5661.13,3072.03,South,Marketplace,2589.1
+ORD00794,2025-12-17,Home,Water Bottle,4,1342.83,0.2,4297.07,2663.0,South,In-store,1634.07
+ORD00795,2025-07-27,Fitness,Resistance Band,3,379.79,0.0,1139.38,854.41,West,Marketplace,284.97
+ORD00796,2025-09-07,Electronics,Keyboard,4,3254.57,0.15,11065.55,8383.81,North,Online,2681.74
+ORD00797,2025-02-11,Electronics,Wireless Mouse,3,1352.08,0.2,3245.0,2511.42,West,Online,733.58
+ORD00798,2025-05-12,Electronics,USB Hub,2,476.58,0.0,953.16,586.59,North,Online,366.57
+ORD00799,2025-04-28,Fitness,Shaker Bottle,1,433.15,0.2,346.52,235.87,East,Online,110.65
+ORD00800,2025-10-27,Fitness,Resistance Band,5,678.85,0.1,3054.8,1909.73,East,In-store,1145.07
+ORD00801,2025-05-25,Fitness,Yoga Mat,5,1777.02,0.15,7552.32,4055.2,South,Marketplace,3497.12
+ORD00802,2025-09-28,Stationery,Markers,1,225.49,0.0,225.49,157.4,North,Marketplace,68.09
+ORD00803,2025-07-16,Fitness,Shaker Bottle,2,867.74,0.0,1735.48,1330.07,Central,Marketplace,405.41
+ORD00804,2025-07-05,Fitness,Yoga Mat,3,386.12,0.0,1158.37,752.01,West,Marketplace,406.36
+ORD00805,2025-06-21,Stationery,Pen Set,2,190.49,0.1,342.89,200.94,North,In-store,141.95
+ORD00806,2025-09-13,Home,Desk Lamp,5,,0.0,2362.73,1696.58,South,Marketplace,666.15
+ORD00807,2025-08-10,Stationery,Notebook,1,496.08,0.2,396.87,221.37,East,Marketplace,175.5
+ORD00808,2025-08-19,Home,Cushion,3,1588.3,0.05,4526.65,2904.65,North,In-store,1622.0
+ORD00809,2025-10-17,Electronics,Headphones,5,3230.04,0.05,15342.67,11371.85,North,Marketplace,3970.82
+ORD00810,2025-09-03,Home,Cushion,2,684.5,0.05,1300.56,752.3,South,Online,548.26
+ORD00811,2025-12-04,Stationery,Pen Set,2,305.72,0.1,550.29,365.21,West,Online,185.08
+ORD00812,2025-03-08,Home,Desk Lamp,1,690.89,0.15,587.26,370.42,South,Online,216.84
+ORD00813,2025-04-04,Electronics,USB Hub,1,2096.75,0.0,2096.75,1561.04,North,In-store,535.71
+ORD00814,2025-05-24,Fitness,Resistance Band,5,443.26,0.1,1994.66,1264.46,North,In-store,730.2
+ORD00815,2025-10-13,Electronics,Wireless Mouse,5,1659.86,0.05,7884.31,5140.56,East,In-store,2743.75
+ORD00816,2025-10-15,Fitness,Skipping Rope,2,660.53,0.15,1122.9,834.07,West,Online,288.83
+ORD00817,2025-11-03,Fitness,Shaker Bottle,5,244.78,0.0,1223.89,816.35,South,Marketplace,407.54
+ORD00818,2025-04-13,Electronics,USB Hub,4,2386.22,0.2,7635.92,5343.38,East,Online,2292.54
+ORD00819,2025-07-12,Electronics,USB Hub,1,3355.5,0.15,2852.17,1632.6,West,Online,1219.57
+ORD00820,2025-07-04,Electronics,USB Hub,3,1130.12,0.15,2881.8,1903.59,Central,Online,978.21
+ORD00821,2025-01-17,Stationery,Notebook,3,332.03,0.0,996.08,744.83,South,Online,251.25
+ORD00822,2025-10-21,Electronics,Keyboard,4,1530.2,0.15,5202.69,3164.54,South,Marketplace,2038.15
+ORD00823,2025-05-06,Electronics,USB Hub,1,2245.8,0.0,2245.8,1491.35,West,In-store,754.45
+ORD00824,2025-08-25,Home,Cushion,4,610.45,0.0,2441.82,1771.47,East,Online,670.35
+ORD00825,2025-04-04,Fitness,Shaker Bottle,1,1309.08,0.1,1178.18,716.05,South,Online,462.13
+ORD00826,2025-04-30,Stationery,Planner,2,72.14,0.0,144.28,85.4,North,In-store,58.88
+ORD00827,2025-10-18,Electronics,Keyboard,2,2594.72,0.05,4929.96,2898.45,West,Online,2031.51
+ORD00828,2025-11-04,Electronics,Wireless Mouse,4,2710.64,0.05,10300.42,7355.0,West,In-store,2945.42
+ORD00829,2025-06-18,Electronics,USB Hub,1,2245.74,0.0,2245.74,1216.54,East,Marketplace,1029.2
+ORD00830,2025-10-11,Stationery,Notebook,1,165.75,0.0,165.75,116.72,North,Online,49.03
+ORD00831,2025-09-12,Home,Cushion,2,1173.89,0.2,1878.22,1027.04,North,Marketplace,851.18
+ORD00832,2025-08-02,Stationery,Pen Set,3,180.33,0.1,486.89,372.83,South,In-store,114.06
+ORD00833,2025-09-12,Fitness,Resistance Band,1,779.48,0.2,623.58,347.12,East,In-store,276.46
+ORD00834,2025-12-24,Fitness,Skipping Rope,4,885.07,0.1,3186.24,1983.47,,Marketplace,1202.77
+ORD00835,2025-01-27,Stationery,Notebook,5,242.57,0.1,1091.58,651.64,East,Marketplace,439.94
+ORD00836,2025-08-16,Electronics,Wireless Mouse,2,1382.27,0.1,2488.09,1402.29,West,In-store,1085.8
+ORD00837,2025-12-20,Stationery,Notebook,3,469.05,0.0,1407.15,1062.57,West,Marketplace,344.58
+ORD00838,2025-01-22,Fitness,Shaker Bottle,1,610.16,0.0,610.16,466.58,West,Online,143.58
+ORD00839,2025-05-25,Electronics,Keyboard,4,2615.96,0.15,8894.28,4826.87,North,In-store,4067.41
+ORD00840,2025-07-11,Electronics,Headphones,3,493.03,0.2,1183.28,893.15,South,In-store,290.13
+ORD00841,2025-11-05,Home,Water Bottle,5,1560.61,0.2,6242.45,4783.32,West,In-store,1459.13
+ORD00842,2025-12-11,Home,Cushion,5,1402.75,0.0,7013.74,4520.88,North,Online,2492.86
+ORD00843,2025-03-21,Fitness,Skipping Rope,3,1441.05,0.1,3890.83,2575.06,Central,In-store,1315.77
+ORD00844,2025-12-19,Stationery,Markers,2,206.25,0.0,412.51,296.44,North,Marketplace,116.07
+ORD00845,2025-09-20,Home,Storage Box,4,532.26,0.0,2129.04,1376.74,South,Marketplace,752.3
+ORD00846,2025-08-04,Fitness,Shaker Bottle,5,710.93,0.0,3554.63,2648.86,West,In-store,905.77
+ORD00847,2025-10-11,Home,Cushion,1,396.99,0.05,377.14,287.42,South,Marketplace,89.72
+ORD00848,2025-07-20,Fitness,Shaker Bottle,2,1654.2,0.1,2977.56,2272.9,North,In-store,704.66
+ORD00849,2025-06-10,Stationery,Pen Set,2,337.31,0.1,607.15,435.05,Central,In-store,172.1
+ORD00850,2025-05-31,Electronics,Wireless Mouse,3,833.11,0.0,2499.34,1591.51,West,Marketplace,907.83
+ORD00851,2025-08-25,Home,Cushion,1,1568.76,0.1,1411.88,762.41,East,Marketplace,649.47
+ORD00852,2025-12-09,Fitness,Yoga Mat,5,742.62,0.0,3713.12,2186.22,Central,Marketplace,1526.9
+ORD00853,2025-06-15,Electronics,Wireless Mouse,5,686.23,0.0,3431.15,1944.49,West,Online,1486.66
+ORD00854,2025-01-10,Stationery,Planner,3,316.39,0.0,949.18,557.78,Central,Marketplace,391.4
+ORD00855,2025-12-11,Stationery,Markers,1,193.35,0.1,174.01,107.51,East,Marketplace,66.5
+ORD00856,2025-12-11,Electronics,Headphones,5,1536.33,0.05,7297.55,5027.52,Central,Marketplace,2270.03
+ORD00857,2025-03-01,Fitness,Yoga Mat,5,270.71,0.15,1150.5,695.02,South,Online,455.48
+ORD00858,2025-05-04,Electronics,Keyboard,4,2294.71,0.15,7802.03,4245.15,East,In-store,3556.88
+ORD00859,2025-04-06,Home,Storage Box,3,1054.68,0.0,3164.03,1843.7,South,Marketplace,1320.33
+ORD00860,2025-03-26,Home,Desk Lamp,1,703.02,0.2,562.41,322.05,North,In-store,240.36
+ORD00861,2025-10-01,Fitness,Shaker Bottle,4,1629.4,0.1,5865.83,3922.09,East,Online,1943.74
+ORD00862,2025-10-03,Electronics,Keyboard,5,2004.18,0.05,9519.86,5973.15,East,In-store,3546.71
+ORD00863,2025-10-11,Fitness,Yoga Mat,4,1646.28,0.1,5926.59,4044.5,South,In-store,1882.09
+ORD00864,2025-01-09,Electronics,Keyboard,2,3441.75,0.05,6539.33,4076.74,West,In-store,2462.59
+ORD00865,2025-09-23,Stationery,Pen Set,5,347.19,0.0,1735.93,931.08,Central,Online,804.85
+ORD00866,2025-10-24,Home,Storage Box,4,1286.25,0.0,5144.98,2859.4,Central,Marketplace,2285.58
+ORD00867,2025-01-03,Electronics,Wireless Mouse,5,2449.44,0.1,11022.49,8293.01,North,Marketplace,2729.48
+ORD00868,2025-09-01,Home,Cushion,3,235.75,0.05,671.9,514.28,South,Online,157.62
+ORD00869,2025-01-26,Electronics,USB Hub,1,1643.37,0.1,1479.03,1089.56,West,Marketplace,389.47
+ORD00870,2025-04-02,Stationery,Notebook,4,208.69,0.15,709.54,542.31,Central,In-store,167.23
+ORD00871,2025-09-19,Fitness,Shaker Bottle,5,980.03,0.0,4900.14,3789.98,West,Marketplace,1110.16
+ORD00872,2025-06-04,Home,Desk Lamp,5,1492.26,0.1,6715.17,4178.65,North,In-store,2536.52
+ORD00873,2025-02-09,Electronics,Headphones,1,1673.36,0.1,1506.02,1154.78,East,Marketplace,351.24
+ORD00874,2025-06-01,Stationery,Notebook,4,41.11,0.1,147.99,92.08,Central,Online,55.91
+ORD00875,2025-04-20,Home,Cushion,4,1153.04,0.2,3689.73,2776.98,South,Online,912.75
+ORD00876,2025-03-16,Home,Water Bottle,5,1482.18,0.05,7040.35,3727.87,North,In-store,3312.48
+ORD00877,2025-04-20,Electronics,USB Hub,5,3094.15,0.15,13150.13,8464.34,North,Online,4685.79
+ORD00878,2025-08-02,Electronics,Headphones,4,1098.75,0.05,4175.25,2967.42,East,Online,1207.83
+ORD00879,2025-01-05,Home,Desk Lamp,4,1356.37,0.0,5425.5,2853.93,North,Marketplace,2571.57
+ORD00880,2025-10-22,Fitness,Skipping Rope,4,1279.47,0.0,5117.88,3852.95,North,Online,1264.93
+ORD00881,2025-07-19,Electronics,Headphones,5,1928.08,0.0,9640.41,6910.31,South,Online,2730.1
+ORD00882,2025-07-20,Home,Water Bottle,3,737.64,0.1,1991.63,1468.76,East,In-store,522.87
+ORD00883,2025-04-24,Home,Storage Box,3,307.07,0.05,875.14,676.55,East,In-store,198.59
+ORD00884,2025-09-02,Home,Desk Lamp,1,799.18,0.1,719.26,476.37,West,Marketplace,242.89
+ORD00885,2025-04-19,Fitness,Skipping Rope,4,1534.88,0.2,4911.61,3607.97,North,Online,1303.64
+ORD00886,2025-09-06,Fitness,Shaker Bottle,4,671.01,0.0,2684.04,1973.32,West,Marketplace,710.72
+ORD00887,2025-04-23,Fitness,Yoga Mat,2,1249.3,0.2,1998.89,1217.52,East,In-store,781.37
+ORD00888,2025-12-18,Electronics,USB Hub,3,2256.81,0.1,6093.39,4377.48,West,Marketplace,1715.91
+ORD00889,2025-12-03,Home,Desk Lamp,4,399.65,0.0,1598.59,1002.82,Central,Marketplace,595.77
+ORD00890,2025-09-06,Home,Water Bottle,4,1298.77,0.0,5195.07,4017.17,East,Online,1177.9
+ORD00891,2025-05-10,Electronics,Keyboard,5,3172.5,0.1,14276.25,9867.5,Central,Online,4408.75
+ORD00892,2025-05-23,Home,Storage Box,1,907.59,0.15,771.45,484.7,West,Online,286.75
+ORD00893,2025-07-29,Electronics,Keyboard,2,2870.43,0.0,5740.85,3245.33,Central,Marketplace,2495.52
+ORD00894,2025-11-02,Stationery,Planner,4,407.65,0.0,1630.59,1242.91,Central,In-store,387.68
+ORD00895,2025-11-09,Fitness,Skipping Rope,4,1090.66,0.0,4362.64,2289.31,West,Marketplace,2073.33
+ORD00896,2025-09-06,Stationery,Notebook,3,150.52,0.15,383.82,228.33,South,In-store,155.49
+ORD00897,2025-06-23,Home,Desk Lamp,5,965.23,0.1,4343.53,2377.97,West,Online,1965.56
+ORD00898,2025-06-01,Fitness,Resistance Band,3,1311.78,0.1,3541.79,2085.5,East,In-store,1456.29
+ORD00899,2025-02-22,Electronics,USB Hub,1,3293.45,0.2,2634.76,1446.93,South,Online,1187.83
+ORD00900,2025-04-25,Electronics,Wireless Mouse,2,3421.25,0.1,6158.24,4392.88,West,In-store,1765.36
+ORD00901,2025-06-22,Stationery,Pen Set,4,404.22,0.1,1455.18,1035.54,South,Marketplace,419.64
+ORD00902,2025-03-30,Home,Cushion,3,508.18,0.15,1295.86,827.23,Central,Marketplace,468.63
+ORD00903,2025-08-20,Stationery,Pen Set,4,224.1,0.1,806.74,424.24,South,Online,382.5
+ORD00904,2025-08-02,Electronics,Headphones,3,1552.87,0.05,4425.69,2462.64,South,In-store,1963.05
+ORD00905,2025-12-25,Home,Cushion,4,213.11,0.0,852.44,614.55,West,Marketplace,237.89
+ORD00906,2025-05-30,Home,Storage Box,1,223.36,0.1,201.03,126.43,Central,Online,74.6
+ORD00907,2025-12-15,Stationery,Planner,2,375.46,0.0,750.92,412.94,West,Marketplace,337.98
+ORD00908,2025-03-06,Stationery,Planner,5,316.48,0.1,1424.17,867.61,Central,Online,556.56
+ORD00909,2025-06-18,Home,Storage Box,5,1403.76,0.0,7018.82,4812.43,North,Online,2206.39
+ORD00910,2025-05-24,Electronics,Keyboard,4,2088.09,0.0,8352.34,5036.81,South,Online,3315.53
+ORD00911,2025-05-31,Home,Storage Box,4,817.39,0.2,2615.65,2026.38,North,Online,589.27
+ORD00912,2025-03-10,Electronics,Keyboard,1,1947.49,0.0,1947.49,1515.06,South,Marketplace,432.43
+ORD00913,2025-08-10,Electronics,Keyboard,4,1843.48,0.0,7373.91,4504.69,Central,,2869.22
+ORD00914,2025-09-24,Electronics,Wireless Mouse,3,2821.18,0.0,8463.53,5739.44,West,Marketplace,2724.09
+ORD00915,2025-07-28,Fitness,Resistance Band,2,251.09,0.15,426.85,278.12,South,Online,148.73
+ORD00916,2025-10-17,Electronics,Wireless Mouse,1,1943.6,0.0,1943.6,1150.3,South,In-store,793.3
+ORD00917,2025-08-13,Electronics,Headphones,2,1907.69,0.0,3815.38,2331.37,West,In-store,1484.01
+ORD00918,2025-09-19,Stationery,Notebook,1,129.72,0.1,116.74,61.91,East,Marketplace,54.83
+ORD00919,2025-12-14,Home,Cushion,4,884.81,0.05,3362.27,1858.41,South,Online,1503.86
+ORD00920,2025-05-19,Home,Water Bottle,3,1256.62,0.0,3769.87,2729.72,West,In-store,1040.15
+ORD00921,2025-01-02,Electronics,Headphones,4,968.99,0.1,3488.38,2590.87,West,Marketplace,897.51
+ORD00922,2025-06-01,Stationery,Planner,3,103.16,0.0,309.47,174.29,North,In-store,135.18
+ORD00923,2025-12-02,Electronics,USB Hub,3,759.93,0.05,2165.79,1575.53,Central,Online,590.26
+ORD00924,2025-02-07,Electronics,Headphones,5,3403.93,0.0,17019.64,10834.26,North,Marketplace,6185.38
+ORD00925,2025-03-27,Fitness,Yoga Mat,2,603.53,0.1,1086.35,630.18,West,Online,456.17
+ORD00926,2025-10-26,Home,Storage Box,5,1389.85,0.1,6254.33,4215.94,East,In-store,2038.39
+ORD00927,2025-03-15,Stationery,Pen Set,1,168.85,0.0,168.85,122.13,East,Marketplace,46.72
+ORD00928,2025-11-28,Stationery,Notebook,2,496.42,0.2,794.27,608.97,South,Online,185.3
+ORD00929,2025-12-29,Fitness,Shaker Bottle,4,840.09,0.1,3024.32,2152.8,Central,In-store,871.52
+ORD00930,2025-12-16,Stationery,Markers,3,69.53,0.0,208.58,139.26,Central,In-store,69.32
+ORD00931,2025-11-24,Electronics,Headphones,4,2680.15,0.0,10720.62,5985.48,East,Online,4735.14
+ORD00932,2025-10-23,Stationery,Markers,4,489.2,0.0,1956.8,1086.42,West,In-store,870.38
+ORD00933,2025-12-20,Home,Storage Box,1,1537.29,0.0,1537.29,954.24,Central,In-store,583.05
+ORD00934,2025-06-22,Electronics,Headphones,3,725.51,0.1,1958.88,1464.14,South,Online,494.74
+ORD00935,2025-04-12,Stationery,Pen Set,1,357.59,0.05,339.71,240.41,Central,Marketplace,99.3
+ORD00936,2025-07-02,Electronics,Headphones,1,916.53,0.0,916.53,663.32,North,Marketplace,253.21
+ORD00937,2025-01-31,Stationery,Notebook,2,149.89,0.0,299.78,169.53,North,In-store,130.25
+ORD00938,2025-05-06,Stationery,Markers,4,227.14,0.05,863.12,501.47,Central,In-store,361.65
+ORD00939,2025-11-25,Home,Desk Lamp,4,775.39,0.0,3101.57,2312.4,West,In-store,789.17
+ORD00940,2025-01-03,Stationery,Pen Set,2,256.11,0.2,409.77,253.57,West,In-store,156.2
+ORD00941,2025-08-05,Stationery,Markers,2,412.38,0.0,824.77,432.7,East,Online,392.07
+ORD00942,2025-02-12,Electronics,USB Hub,1,660.31,0.0,660.31,467.54,South,In-store,192.77
+ORD00943,2025-10-09,Electronics,Wireless Mouse,2,1978.5,0.05,3759.15,2612.7,West,In-store,1146.45
+ORD00944,2025-03-30,Stationery,Notebook,3,296.4,0.0,889.19,579.24,East,Online,309.95
+ORD00945,2025-01-31,Fitness,Skipping Rope,3,290.46,0.0,871.38,470.83,North,Online,400.55
+ORD00946,2025-08-17,Stationery,Markers,2,333.8,0.1,600.84,429.38,East,Online,171.46
+ORD00947,2025-10-28,Fitness,Yoga Mat,1,426.14,0.05,404.83,255.58,Central,Online,149.25
+ORD00948,2025-12-22,Home,Cushion,1,1416.81,0.0,1416.81,740.01,West,Marketplace,676.8
+ORD00949,2025-03-21,Electronics,USB Hub,3,2572.82,0.15,6560.7,3921.99,Central,Online,2638.71
+ORD00950,2025-05-24,Stationery,Markers,1,179.52,0.2,143.61,92.81,Central,Marketplace,50.8
+ORD00951,2025-02-03,Home,Water Bottle,4,183.67,0.2,587.75,366.49,Central,Online,221.26
+ORD00952,2025-11-25,Electronics,Keyboard,3,2160.05,0.0,6480.14,3984.36,West,In-store,2495.78
+ORD00953,2025-01-08,Home,Water Bottle,1,742.59,0.0,742.59,498.34,Central,In-store,244.25
+ORD00954,2025-12-05,Fitness,Skipping Rope,2,1535.74,0.15,2610.76,1979.85,East,In-store,630.91
+ORD00955,2025-01-26,Stationery,Pen Set,1,314.24,0.0,314.24,181.07,South,Marketplace,133.17
+ORD00956,2025-09-28,Stationery,Planner,1,356.55,0.0,356.55,228.67,East,In-store,127.88
+ORD00957,2025-12-04,Electronics,USB Hub,2,524.91,0.1,944.84,595.6,West,Online,349.24
+ORD00958,2025-03-23,Electronics,Headphones,5,1128.69,0.1,5079.12,3922.25,South,Online,1156.87
+ORD00959,2025-11-28,Home,Water Bottle,3,1208.92,0.05,3445.42,2518.28,South,Marketplace,927.14
+ORD00960,2025-07-01,Home,Cushion,4,778.81,0.1,2803.73,1908.88,Central,Marketplace,894.85
+ORD00961,2025-05-24,Stationery,Notebook,5,435.56,0.0,2177.78,1477.96,South,Online,699.82
+ORD00962,2025-09-25,Electronics,Headphones,1,1730.45,0.05,1643.93,1122.09,West,Online,521.84
+ORD00963,2025-04-09,Electronics,Headphones,3,3329.14,0.1,8988.67,5231.35,East,Online,3757.32
+ORD00964,2025-05-07,Electronics,Keyboard,1,1517.88,0.2,1214.3,777.16,North,Online,437.14
+ORD00965,2025-12-08,Electronics,Wireless Mouse,3,1442.37,0.05,4110.77,2562.2,West,In-store,1548.57
+ORD00966,2025-04-21,Electronics,Wireless Mouse,4,972.11,0.2,3110.76,2424.41,North,In-store,686.35
+ORD00967,2025-02-16,Home,Storage Box,4,769.18,0.2,2461.38,1762.21,Central,In-store,699.17
+ORD00968,2025-10-03,Stationery,Planner,2,174.57,0.0,349.14,225.73,South,Online,123.41
+ORD00969,2025-01-10,Home,Desk Lamp,2,873.59,0.05,1659.82,1015.13,North,Marketplace,644.69
+ORD00970,2025-06-01,Stationery,Markers,5,474.92,0.0,2374.59,1302.2,North,Online,1072.39
+ORD00971,2025-01-02,Stationery,Markers,5,114.6,0.0,573.02,347.67,West,In-store,225.35
+ORD00972,2025-12-31,Fitness,Yoga Mat,5,305.47,0.15,1298.27,876.67,West,Marketplace,421.6
+ORD00973,2025-07-24,Electronics,Wireless Mouse,2,1550.0,0.0,3100.0,2009.87,North,Marketplace,1090.13
+ORD00974,2025-08-05,Home,Desk Lamp,1,678.49,0.0,678.49,413.3,East,Marketplace,265.19
+ORD00975,2025-06-09,Stationery,Pen Set,5,454.01,0.05,2156.52,1673.58,North,Marketplace,482.94
+ORD00976,2025-02-25,Fitness,Shaker Bottle,2,1651.92,0.15,2808.27,1507.31,West,Marketplace,1300.96
+ORD00977,2025-07-23,Fitness,Yoga Mat,4,274.25,0.0,1096.98,834.5,Central,Online,262.48
+ORD00978,2025-03-06,Home,Cushion,1,298.35,0.05,283.44,153.25,Central,In-store,130.19
+ORD00979,2025-07-05,Fitness,Skipping Rope,4,362.2,0.2,1159.04,799.27,North,Online,359.77
+ORD00980,2025-03-31,Home,Cushion,1,169.39,0.2,135.51,82.53,Central,In-store,52.98
+ORD00981,2025-12-13,Electronics,Headphones,3,1224.78,0.15,3123.2,1897.65,West,Online,1225.55
+ORD00982,2025-04-14,Stationery,Notebook,1,256.11,0.1,230.5,123.42,East,Online,107.08
+ORD00983,2025-10-21,Stationery,Notebook,4,321.91,0.15,1094.5,688.87,East,Online,405.63
+ORD00984,2025-01-20,Home,Storage Box,1,1362.38,0.1,1226.14,764.99,South,Marketplace,461.15
+ORD00985,2025-10-12,Stationery,Planner,1,199.63,0.1,179.67,107.94,Central,Online,71.73
+ORD00986,2025-01-26,Stationery,Planner,4,330.09,0.15,1122.3,660.21,South,Marketplace,462.09
+ORD00987,2025-11-11,Fitness,Skipping Rope,4,1315.51,0.2,4209.62,2816.86,South,In-store,1392.76
+ORD00988,2025-05-03,Electronics,USB Hub,1,974.79,0.2,779.83,502.49,West,In-store,277.34
+ORD00989,2025-03-05,Fitness,Resistance Band,5,1551.76,0.1,6982.92,4014.52,West,Online,2968.4
+ORD00990,2025-11-12,Home,Storage Box,5,1118.53,0.1,5033.39,3224.49,West,Marketplace,1808.9
+ORD00991,2025-08-12,Stationery,Markers,3,337.16,0.05,960.9,561.31,Central,In-store,399.59
+ORD00992,2025-05-27,Home,Cushion,5,915.21,0.0,4576.03,3056.05,East,Online,1519.98
+ORD00993,2025-10-05,Stationery,Markers,4,356.79,0.05,1355.79,777.68,East,In-store,578.11
+ORD00994,2025-07-22,Stationery,Pen Set,1,278.16,0.1,250.35,191.91,East,Marketplace,58.44
+ORD00995,2025-05-01,Electronics,Keyboard,4,1311.95,0.0,5247.8,4014.39,South,In-store,1233.41
+ORD00996,2025-07-14,Stationery,Markers,1,122.33,0.2,97.86,73.21,South,Online,24.65
+ORD00997,2025-07-29,Electronics,Wireless Mouse,1,3425.82,0.1,3083.24,1784.34,West,Marketplace,1298.9
+ORD00998,2025-01-31,Electronics,Wireless Mouse,4,1562.85,0.0,6251.39,4419.91,Central,Marketplace,1831.48
+ORD00999,2025-10-06,Home,Cushion,5,1235.46,0.1,5559.56,4273.44,Central,In-store,1286.12
+ORD01000,2025-11-19,Fitness,Resistance Band,1,323.0,0.0,323.0,250.0,East,Online,73.0
+ORD01001,2025-06-18,Stationery,Planner,4,306.5,0.1,1103.4,627.18,West,Online,476.22
+ORD01002,2025-06-09,Stationery,Notebook,2,120.91,0.15,205.55,126.16,South,Online,79.39
+ORD01003,2025-01-14,Electronics,USB Hub,5,2363.97,0.1,10637.87,6939.4,North,In-store,3698.47
+ORD01004,2025-07-17,Electronics,USB Hub,2,2399.07,0.05,4558.23,3386.46,South,Online,1171.77
+ORD01005,2025-04-17,Stationery,Notebook,1,243.42,0.1,219.08,129.59,West,Marketplace,89.49
+ORD01006,2025-02-23,Home,Storage Box,3,316.82,0.0,950.45,499.31,West,In-store,451.14
+ORD01007,2025-12-30,Stationery,Notebook,3,104.48,0.1,282.1,194.6,East,In-store,87.5
+ORD01008,2025-01-28,Fitness,Yoga Mat,2,868.36,0.1,1563.05,834.0,North,In-store,729.05
+ORD01009,2025-12-28,Electronics,Wireless Mouse,4,815.86,0.0,3263.46,2396.79,Central,In-store,866.67
+ORD01010,2025-07-12,Home,Cushion,1,348.63,0.2,278.9,191.24,Central,In-store,87.66
+ORD01011,2025-12-25,Home,Water Bottle,1,1204.33,0.0,1204.33,842.42,South,Marketplace,361.91
+ORD01012,2025-07-04,Fitness,Yoga Mat,3,1708.83,0.1,4613.85,3158.66,East,Online,1455.19
+ORD01013,2025-05-23,Electronics,Wireless Mouse,3,481.02,0.0,1443.06,1025.22,Central,Marketplace,417.84
+ORD01014,2025-09-13,Stationery,Planner,1,476.66,0.15,405.16,312.73,West,Online,92.43
+ORD01015,2025-03-08,Home,Desk Lamp,4,978.27,0.0,3913.07,2771.5,North,Marketplace,1141.57
+ORD01016,2025-11-12,Electronics,USB Hub,5,1968.32,0.05,9349.51,6927.31,Central,Marketplace,2422.2
+ORD01017,2025-08-21,Electronics,Headphones,4,3063.35,0.2,9802.73,6106.42,South,In-store,3696.31
+ORD01018,2025-11-01,Electronics,USB Hub,3,,0.2,1636.7,1221.63,East,Online,415.07
+ORD01019,2025-02-12,Fitness,Shaker Bottle,5,1145.01,0.1,5152.57,3220.56,East,In-store,1932.01
+ORD01020,2025-12-16,Electronics,Headphones,5,1334.21,0.15,5670.4,3089.12,North,Online,2581.28
+ORD01021,2025-01-25,Home,Water Bottle,1,234.16,0.05,222.45,140.24,North,Online,82.21
+ORD01022,2025-02-12,Electronics,Wireless Mouse,4,3432.58,0.15,11670.77,8873.02,West,Marketplace,2797.75
+ORD01023,2025-08-21,Stationery,Planner,5,407.32,0.05,1934.76,1139.19,North,In-store,795.57
+ORD01024,2025-09-24,Electronics,USB Hub,1,3463.99,0.15,2944.39,1715.01,South,Online,1229.38
+ORD01025,2025-08-23,Stationery,Planner,5,496.93,0.0,2484.67,1673.02,North,In-store,811.65
+ORD01026,2025-08-29,Stationery,Notebook,2,305.05,0.15,518.59,376.56,South,In-store,142.03
+ORD01027,2025-08-19,Fitness,Resistance Band,5,713.48,0.0,3567.42,2415.26,East,Marketplace,1152.16
+ORD01028,2025-01-28,Home,Storage Box,5,1429.66,0.0,7148.3,4558.37,North,In-store,2589.93
+ORD01029,2025-06-16,Electronics,USB Hub,4,2565.0,0.1,9234.0,6109.19,West,Online,3124.81
+ORD01030,2025-08-28,Electronics,Wireless Mouse,2,2564.67,0.1,4616.4,2669.03,North,In-store,1947.37
+ORD01031,2025-11-06,Stationery,Pen Set,2,455.35,0.0,910.71,481.89,North,In-store,428.82
+ORD01032,2025-01-07,Stationery,Notebook,5,225.68,0.1,1015.57,709.87,North,Marketplace,305.7
+ORD01033,2025-09-04,Electronics,Wireless Mouse,5,2555.38,0.0,12776.89,7911.52,West,In-store,4865.37
+ORD01034,2025-03-05,Fitness,Yoga Mat,2,1614.81,0.15,2745.17,2078.46,West,In-store,666.71
+ORD01035,2025-03-12,Home,Water Bottle,2,1468.81,0.1,2643.85,1920.7,South,Marketplace,723.15
+ORD01036,2025-11-07,Stationery,Planner,1,256.68,0.2,205.35,138.54,Central,Online,66.81
+ORD01037,2025-10-02,Electronics,USB Hub,4,1090.71,0.05,4144.7,2194.19,South,In-store,1950.51
+ORD01038,2025-02-27,Home,Storage Box,4,287.83,0.1,1036.18,673.6,North,,362.58
+ORD01039,2025-02-03,Home,Desk Lamp,1,234.14,0.15,199.02,112.09,Central,Marketplace,86.93
+ORD01040,2025-08-28,Fitness,Yoga Mat,2,1525.44,0.15,2593.26,1466.68,South,In-store,1126.58
+ORD01041,2025-10-08,Electronics,Headphones,1,2421.67,0.1,2179.5,1571.81,North,Online,607.69
+ORD01042,2025-07-03,Stationery,Markers,4,290.19,0.1,1044.68,759.63,East,Marketplace,285.05
+ORD01043,2025-12-31,Fitness,Yoga Mat,2,1158.66,0.1,2085.58,1381.34,West,In-store,704.24
+ORD01044,2025-02-09,Fitness,Resistance Band,2,722.94,0.0,1445.87,963.97,South,In-store,481.9
+ORD01045,2025-09-24,Electronics,USB Hub,5,1074.26,0.0,5371.32,4150.09,West,Marketplace,1221.23
+ORD01046,2025-07-05,Stationery,Notebook,3,269.7,0.15,687.74,409.73,North,Online,278.01
+ORD01047,2025-03-14,Electronics,Headphones,4,2603.66,0.1,9373.18,5626.31,North,Marketplace,3746.87
+ORD01048,2025-08-19,Electronics,USB Hub,1,2124.05,0.05,2017.84,1406.21,West,In-store,611.63
+ORD01049,2025-08-15,Stationery,Notebook,1,251.44,0.0,251.44,194.59,North,In-store,56.85
+ORD01050,2025-08-15,Home,Water Bottle,4,923.13,0.2,2954.02,1794.69,West,In-store,1159.33
+ORD01051,2025-05-15,Electronics,Headphones,4,3013.39,0.0,12053.57,9358.07,East,Marketplace,2695.5
+ORD01052,2025-10-31,Fitness,Shaker Bottle,4,666.78,0.0,2667.12,1643.14,East,Online,1023.98
+ORD01053,2025-07-26,Home,Cushion,3,389.75,0.1,1052.33,741.81,South,In-store,310.52
+ORD01054,2025-02-27,Home,Water Bottle,2,1570.05,0.1,2826.09,1843.71,North,Online,982.38
+ORD01055,2025-12-09,Electronics,Keyboard,5,764.65,0.1,3440.94,1941.28,South,Marketplace,1499.66
+ORD01056,2025-03-20,Fitness,Resistance Band,3,1606.85,0.1,4338.49,2906.72,South,Marketplace,1431.77
+ORD01057,2025-12-18,Stationery,Markers,1,452.43,0.1,407.19,268.51,North,Online,138.68
+ORD01058,2025-08-29,Stationery,Pen Set,2,332.7,0.2,532.32,374.44,East,Online,157.88
+ORD01059,2025-06-22,Electronics,Keyboard,4,1708.57,0.05,6492.56,4618.66,,Marketplace,1873.9
+ORD01060,2025-10-24,Home,Cushion,5,979.79,0.2,3919.18,2262.85,South,Online,1656.33
+ORD01061,2025-01-04,Home,Storage Box,5,1310.23,0.1,5896.05,3334.24,West,In-store,2561.81
+ORD01062,2025-03-24,Home,Storage Box,5,1538.02,0.1,6921.09,5091.59,West,Online,1829.5
+ORD01063,2025-11-12,Home,Storage Box,4,367.44,0.1,1322.78,700.3,Central,Marketplace,622.48
+ORD01064,2025-12-22,Electronics,Wireless Mouse,3,2801.65,0.0,8404.95,5084.9,North,Marketplace,3320.05
+ORD01065,2025-08-25,Fitness,Resistance Band,2,1577.07,0.0,3154.14,1997.75,Central,Online,1156.39
+ORD01066,2025-04-25,Home,Storage Box,3,475.51,0.0,1426.52,853.81,South,Online,572.71
+ORD01067,2025-04-07,Fitness,Shaker Bottle,1,973.77,0.15,827.7,550.26,South,Online,277.44
+ORD01068,2025-05-13,Stationery,Planner,4,419.68,0.0,1678.72,1099.27,South,Marketplace,579.45
+ORD01069,2025-06-11,Electronics,Wireless Mouse,1,1721.99,0.0,1721.99,1047.72,South,Online,674.27
+ORD01070,2025-10-16,Home,Desk Lamp,1,1229.5,0.05,1168.03,771.13,North,Online,396.9
+ORD01071,2025-12-19,Fitness,Skipping Rope,5,1005.95,0.0,5029.77,3775.95,North,Online,1253.82
+ORD01072,2025-02-02,Stationery,Notebook,3,344.03,0.1,928.88,534.38,South,Online,394.5
+ORD01073,2025-08-14,Electronics,Headphones,1,2218.44,0.2,1774.76,977.7,South,Online,797.06
+ORD01074,2025-12-03,Electronics,Keyboard,2,752.25,0.1,1354.05,974.97,South,In-store,379.08
+ORD01075,2025-06-29,Home,Storage Box,4,891.73,0.05,3388.58,1770.24,East,Marketplace,1618.34
+ORD01076,2025-09-14,Home,Water Bottle,1,1155.6,0.1,1040.04,757.93,South,Marketplace,282.11
+ORD01077,2025-06-19,Stationery,Markers,4,379.48,0.0,1517.94,931.85,East,Marketplace,586.09
+ORD01078,2025-04-11,Home,Cushion,4,511.54,0.05,1943.85,1213.51,Central,Online,730.34
+ORD01079,2025-08-17,Electronics,Wireless Mouse,2,1479.84,0.05,2811.7,1489.51,Central,Online,1322.19
+ORD01080,2025-11-29,Fitness,Skipping Rope,4,1621.14,0.05,6160.32,3805.42,West,Marketplace,2354.9
+ORD01081,2025-07-08,Fitness,Yoga Mat,5,878.96,0.05,4175.08,2487.44,West,In-store,1687.64
+ORD01082,2025-11-07,Stationery,Notebook,2,126.43,0.1,227.57,146.09,East,Online,81.48
+ORD01083,2025-03-11,Fitness,Shaker Bottle,4,519.24,0.0,2076.96,1560.81,Central,Online,516.15
+ORD01084,2025-04-22,Electronics,Keyboard,1,2750.16,0.1,2475.15,1762.97,Central,,712.18
+ORD01085,2025-02-19,Stationery,Markers,5,321.04,0.15,1364.43,924.13,East,In-store,440.3
+ORD01086,2025-02-18,Stationery,Notebook,1,303.32,0.1,272.99,202.19,South,In-store,70.8
+ORD01087,2025-07-10,Home,Desk Lamp,5,1320.57,0.1,5942.57,3427.06,North,Marketplace,2515.51
+ORD01088,2025-05-16,Electronics,Wireless Mouse,3,3160.22,0.0,9480.66,5395.17,West,Marketplace,4085.49
+ORD01089,2025-01-16,Stationery,Planner,5,395.13,0.0,1975.66,1516.48,South,Marketplace,459.18
+ORD01090,2025-07-26,Home,Cushion,1,1351.29,0.1,1216.16,867.19,South,In-store,348.97
+ORD01091,2025-10-12,Stationery,Markers,3,366.34,0.1,989.13,564.05,West,In-store,425.08
+ORD01092,2025-10-17,Electronics,Wireless Mouse,5,1776.96,0.0,8884.82,4877.38,North,Online,4007.44
+ORD01093,2025-10-23,Stationery,Markers,4,280.0,0.1,1008.0,685.16,North,Marketplace,322.84
+ORD01094,2025-04-23,Stationery,Markers,1,105.86,0.1,95.28,72.67,East,In-store,22.61
+ORD01095,2025-12-09,Home,Storage Box,4,228.55,0.15,777.07,591.45,North,In-store,185.62
+ORD01096,2025-03-18,Stationery,Planner,1,349.05,0.0,349.05,227.5,West,Online,121.55
+ORD01097,2025-12-20,Electronics,Headphones,3,1394.5,0.0,4183.5,2964.29,North,In-store,1219.21
+ORD01098,2025-04-07,Home,Water Bottle,3,854.25,0.05,2434.62,1652.66,South,Online,781.96
+ORD01099,2025-12-12,Stationery,Planner,2,498.28,0.2,797.25,604.85,East,Online,192.4
+ORD01100,2025-12-28,Home,Desk Lamp,1,939.93,0.0,939.93,500.24,Central,Online,439.69
+ORD01101,2025-11-30,Home,Storage Box,5,436.57,0.1,1964.55,1110.69,,Marketplace,853.86
+ORD01102,2025-08-30,Fitness,Shaker Bottle,4,1579.45,0.05,6001.93,3432.5,South,In-store,2569.43
+ORD01103,2025-06-13,Electronics,USB Hub,2,2198.45,0.0,4396.9,2839.67,East,Marketplace,1557.23
+ORD01104,2025-12-22,Fitness,Yoga Mat,1,618.3,0.1,556.47,307.98,South,Online,248.49
+ORD01105,2025-04-28,Fitness,Yoga Mat,4,901.96,0.2,2886.27,2152.84,South,Online,733.43
+ORD01106,2025-10-09,Stationery,Planner,3,118.68,0.15,302.63,216.86,South,In-store,85.77
+ORD01107,2025-06-20,Electronics,Keyboard,1,2835.53,0.05,2693.76,2044.52,North,Marketplace,649.24
+ORD01108,2025-08-06,Stationery,Notebook,2,384.74,0.05,731.0,550.43,South,In-store,180.57
+ORD01109,2025-04-01,Fitness,Skipping Rope,4,304.59,0.0,1218.36,860.7,North,Marketplace,357.66
+ORD01110,2025-10-11,Stationery,Pen Set,2,465.65,0.0,931.3,671.43,West,Online,259.87
+ORD01111,2025-02-03,Fitness,Resistance Band,3,1679.57,0.0,5038.72,3836.08,North,Online,1202.64
+ORD01112,2025-05-24,Fitness,Skipping Rope,2,738.01,0.1,1328.42,970.36,West,Online,358.06
+ORD01113,2025-08-16,Stationery,Pen Set,3,189.35,0.1,511.25,334.24,East,In-store,177.01
+ORD01114,2025-09-05,Fitness,Resistance Band,3,338.98,0.15,864.41,542.83,East,In-store,321.58
+ORD01115,2025-03-10,Home,Water Bottle,3,1032.66,0.1,2788.19,1495.7,Central,In-store,1292.49
+ORD01116,2025-10-20,Home,Storage Box,2,480.29,0.15,816.49,579.75,East,Marketplace,236.74
+ORD01117,2025-08-05,Fitness,Resistance Band,4,1694.54,0.2,5422.51,3902.29,South,Marketplace,1520.22
+ORD01118,2025-02-21,Fitness,Yoga Mat,1,1283.81,0.2,1027.05,741.72,Central,In-store,285.33
+ORD01119,2025-08-14,Home,Storage Box,5,870.13,0.0,4350.63,3229.6,West,In-store,1121.03
+ORD01120,2025-12-28,Electronics,Wireless Mouse,4,2384.99,0.15,8108.97,5371.57,Central,Online,2737.4
+ORD01121,2025-04-30,Stationery,Planner,5,332.95,0.05,1581.53,1158.06,South,Online,423.47
+ORD01122,2025-06-12,Stationery,Notebook,2,194.42,0.1,349.96,251.07,West,In-store,98.89
+ORD01123,2025-11-18,Home,Storage Box,1,1588.86,0.1,1429.97,853.25,North,Online,576.72
+ORD01124,2025-03-13,Electronics,Wireless Mouse,4,2876.59,0.1,10355.74,6691.94,North,Marketplace,3663.8
+ORD01125,2025-03-16,Electronics,Keyboard,3,1971.42,0.1,5322.82,3502.12,Central,Marketplace,1820.7
+ORD01126,2025-12-26,Home,Cushion,2,890.18,0.15,1513.31,830.66,East,In-store,682.65
+ORD01127,2025-01-05,Stationery,Pen Set,5,227.54,0.1,1023.93,580.71,East,In-store,443.22
+ORD01128,2025-08-24,Home,Cushion,3,1354.06,0.0,4062.19,2761.54,West,Online,1300.65
+ORD01129,2025-06-10,Home,Storage Box,4,967.68,0.0,3870.71,2183.31,Central,In-store,1687.4
+ORD01130,2025-08-12,Stationery,Markers,1,278.88,0.1,250.99,194.77,East,Online,56.22
+ORD01131,2025-07-06,Home,Desk Lamp,2,1196.03,0.15,2033.25,1071.91,Central,Marketplace,961.34
+ORD01132,2025-07-01,Home,Cushion,1,765.94,0.0,765.94,533.92,East,Online,232.02
+ORD01133,2025-05-21,Stationery,Planner,3,467.71,0.0,1403.13,979.95,South,Marketplace,423.18
+ORD01134,2025-04-18,Stationery,Markers,1,408.33,0.0,408.33,244.42,North,In-store,163.91
+ORD01135,2025-10-13,Stationery,Planner,1,259.21,0.05,246.25,157.82,West,In-store,88.43
+ORD01136,2025-12-28,Electronics,Keyboard,5,3100.43,0.0,15502.13,11840.68,South,Marketplace,3661.45
+ORD01137,2025-01-21,Home,Cushion,5,960.77,0.2,3843.07,2865.98,North,Marketplace,977.09
+ORD01138,2025-01-23,Stationery,Notebook,1,173.84,0.0,173.84,132.69,West,In-store,41.15
+ORD01139,2025-09-15,Stationery,Planner,2,72.96,0.1,131.32,77.33,South,Marketplace,53.99
+ORD01140,2025-03-08,Electronics,USB Hub,1,1761.62,0.1,1585.46,1076.39,Central,In-store,509.07
+ORD01141,2025-11-14,Stationery,Pen Set,1,191.64,0.0,191.64,135.1,North,Marketplace,56.54
+ORD01142,2025-08-20,Stationery,Planner,3,138.64,0.1,374.34,199.98,West,Marketplace,174.36
+ORD01143,2025-02-09,Home,Water Bottle,3,1029.61,0.0,3088.84,2112.77,West,Marketplace,976.07
+ORD01144,2025-05-23,Home,Storage Box,3,585.01,0.0,1755.04,927.79,North,Online,827.25
+ORD01145,2025-01-19,Stationery,Markers,5,416.32,0.2,1665.27,1109.82,South,Marketplace,555.45
+ORD01146,2025-10-12,Home,Desk Lamp,1,1392.65,0.15,1183.76,686.28,North,In-store,497.48
+ORD01147,2025-10-12,Fitness,Yoga Mat,2,1592.1,0.05,3024.99,2110.6,Central,In-store,914.39
+ORD01148,2025-01-09,Stationery,Pen Set,3,183.71,0.05,523.58,305.66,South,Online,217.92
+ORD01149,2025-12-03,Stationery,Planner,1,366.77,0.1,330.09,227.62,Central,Online,102.47
+ORD01150,2025-08-14,Home,Cushion,4,151.51,0.1,545.42,335.92,West,Online,209.5
+ORD01151,2025-02-07,Electronics,Keyboard,3,3253.88,0.15,8297.38,5878.65,East,Marketplace,2418.73
+ORD01152,2025-10-14,Electronics,Keyboard,5,2333.27,0.2,9333.07,6004.4,East,In-store,3328.67
+ORD01153,2025-09-09,Fitness,Resistance Band,5,536.48,0.05,2548.27,1946.77,South,In-store,601.5
+ORD01154,2025-12-21,Fitness,Skipping Rope,5,1780.22,0.0,8901.12,5062.58,Central,Marketplace,3838.54
+ORD01155,2025-04-03,Stationery,Markers,3,474.34,0.05,1351.87,896.68,Central,Marketplace,455.19
+ORD01156,2025-08-10,Home,Cushion,3,804.07,0.1,2171.0,1319.62,Central,Online,851.38
+ORD01157,2025-07-19,Electronics,Headphones,1,2619.96,0.0,2619.96,1972.76,West,Marketplace,647.2
+ORD01158,2025-03-07,Home,Storage Box,3,1350.56,0.1,3646.51,2758.05,North,Marketplace,888.46
+ORD01159,2025-01-14,Electronics,Headphones,5,3404.13,0.1,15318.57,9315.14,Central,In-store,6003.43
+ORD01160,2025-09-02,Fitness,Shaker Bottle,4,1026.81,0.05,3901.87,2167.29,Central,Marketplace,1734.58
+ORD01161,2025-05-09,Home,Desk Lamp,5,1263.08,0.0,6315.4,4640.96,East,Online,1674.44
+ORD01162,2025-04-07,Home,Cushion,3,919.48,0.1,2482.6,1585.1,North,In-store,897.5
+ORD01163,2025-08-31,Fitness,Resistance Band,5,1177.52,0.15,5004.48,3755.79,East,Online,1248.69
+ORD01164,2025-02-18,Electronics,Keyboard,4,1563.0,0.1,5626.79,3241.32,North,Online,2385.47
+ORD01165,2025-05-01,Fitness,Resistance Band,1,649.62,0.0,649.62,396.1,Central,Marketplace,253.52
+ORD01166,2025-05-22,Home,Desk Lamp,4,320.08,0.2,1024.27,616.57,Central,Online,407.7
+ORD01167,2025-11-19,Home,Water Bottle,2,1103.09,0.1,1985.57,1193.22,Central,Online,792.35
+ORD01168,2025-11-13,Stationery,Planner,3,149.17,0.05,425.12,225.82,Central,Marketplace,199.3
+ORD01169,2025-11-28,Electronics,Headphones,4,928.0,0.1,3340.8,2269.34,Central,Online,1071.46
+ORD01170,2025-06-14,Stationery,Notebook,2,217.36,0.0,434.73,274.1,South,In-store,160.63
+ORD01171,2025-11-08,Home,Desk Lamp,1,792.29,0.1,713.06,496.19,North,Online,216.87
+ORD01172,2025-05-10,Home,Cushion,1,272.77,0.0,272.77,154.73,South,Marketplace,118.04
+ORD01173,2025-05-09,Stationery,Notebook,5,260.36,0.0,1301.78,775.91,West,Online,525.87
+ORD01174,2025-09-07,Electronics,Wireless Mouse,3,826.5,0.0,2479.5,1383.66,South,Online,1095.84
+ORD01175,2025-03-08,Stationery,Markers,2,443.11,0.0,886.21,504.28,West,Online,381.93
+ORD01176,2025-10-30,Fitness,Resistance Band,3,1364.42,0.15,3479.27,1874.19,South,Marketplace,1605.08
+ORD01177,2025-03-12,Fitness,Skipping Rope,5,1322.06,0.2,5288.24,3574.51,South,Marketplace,1713.73
+ORD01178,2025-11-12,Stationery,Notebook,2,472.42,0.0,944.84,578.2,North,In-store,366.64
+ORD01179,2025-03-31,Electronics,USB Hub,4,2256.1,0.0,9024.4,5081.18,North,Marketplace,3943.22
+ORD01180,2025-09-01,Electronics,Headphones,5,994.09,0.1,4473.41,3270.51,Central,Online,1202.9
+ORD01181,2025-06-19,Stationery,Markers,4,111.74,0.15,379.9,234.76,East,Marketplace,145.14
+ORD01182,2025-08-25,Home,Cushion,2,847.31,0.0,1694.63,1197.38,South,Marketplace,497.25
+ORD01183,2025-01-15,Stationery,Notebook,1,419.84,0.1,377.86,239.6,West,Marketplace,138.26
+ORD01184,2025-10-17,Electronics,Headphones,1,689.6,0.05,655.12,381.01,Central,In-store,274.11
+ORD01185,2025-10-10,Electronics,USB Hub,3,1860.65,0.05,5302.85,2827.11,South,Marketplace,2475.74
+ORD01186,2025-04-09,Home,Desk Lamp,1,1423.7,0.0,1423.7,790.91,Central,In-store,632.79
+ORD01187,2025-11-25,Stationery,Notebook,1,187.1,0.0,187.1,100.33,South,Marketplace,86.77
+ORD01188,2025-05-29,Electronics,Wireless Mouse,2,1384.49,0.0,2768.99,2061.0,West,Online,707.99
+ORD01189,2025-12-26,Fitness,Skipping Rope,5,778.06,0.0,3890.29,2580.89,East,In-store,1309.4
+ORD01190,2025-11-16,Stationery,Markers,4,270.08,0.2,864.26,640.16,North,Marketplace,224.1
+ORD01191,2025-06-12,Stationery,Pen Set,2,144.62,0.1,260.32,173.33,North,Marketplace,86.99
+ORD01192,2025-05-08,Electronics,Wireless Mouse,1,492.86,0.0,492.86,321.87,East,Marketplace,170.99
+ORD01193,2025-08-20,Electronics,Wireless Mouse,2,2560.69,0.1,4609.24,3543.09,East,Marketplace,1066.15
+ORD01194,2025-01-13,Electronics,Keyboard,3,1195.74,0.1,3228.49,1830.92,North,Online,1397.57
+ORD01195,2025-08-03,Electronics,Keyboard,4,2025.55,0.2,6481.75,3460.87,East,Marketplace,3020.88
+ORD01196,2025-06-18,Electronics,Wireless Mouse,1,930.42,0.0,930.42,683.46,Central,In-store,246.96
+ORD01197,2025-03-21,Fitness,Yoga Mat,2,1481.17,0.1,2666.1,1949.9,North,Marketplace,716.2
+ORD01198,2025-12-17,Electronics,Keyboard,2,641.21,0.1,1154.18,686.44,South,In-store,467.74
+ORD01199,2025-06-14,Electronics,Keyboard,3,2077.15,0.1,5608.31,3161.7,,Marketplace,2446.61
+ORD01200,2025-09-14,Home,Desk Lamp,4,1413.09,0.1,5087.11,2841.88,South,Marketplace,2245.23
+ORD01201,2025-04-26,Stationery,Markers,3,322.59,0.1,871.0,537.26,East,Online,333.74
+ORD01202,2025-01-28,Electronics,Wireless Mouse,1,2949.9,0.15,2507.41,1635.72,West,Marketplace,871.69
+ORD01203,2025-12-06,Fitness,Skipping Rope,4,323.56,0.1,1164.8,858.51,North,Online,306.29
+ORD01204,2025-02-18,Fitness,Yoga Mat,4,1023.16,0.1,3683.37,2237.96,East,Online,1445.41
+ORD01205,2025-06-02,Stationery,Markers,5,163.18,0.0,815.92,429.72,West,Marketplace,386.2
+ORD01206,2025-07-18,Stationery,Pen Set,3,208.95,0.1,564.18,296.5,Central,Online,267.68
+ORD01207,2025-01-18,Electronics,Wireless Mouse,5,466.16,0.0,2330.78,1741.47,West,Marketplace,589.31
+ORD01208,2025-10-25,Home,Desk Lamp,1,728.55,0.0,728.55,389.06,South,Online,339.49
+ORD01209,2025-09-15,Electronics,USB Hub,5,2884.39,0.0,14421.93,10120.32,South,Marketplace,4301.61
+ORD01210,2025-11-14,Fitness,Shaker Bottle,5,242.79,0.0,1213.94,684.98,East,Marketplace,528.96
+ORD01211,2025-10-18,Home,Cushion,1,923.4,0.1,831.06,533.76,West,Marketplace,297.3
+ORD01212,2025-06-27,Home,Cushion,2,1396.73,0.2,2234.77,1501.64,North,Online,733.13
+ORD01213,2025-12-23,Electronics,Headphones,2,3457.48,0.05,6569.22,3509.87,Central,In-store,3059.35
+ORD01214,2025-10-17,Fitness,Yoga Mat,1,1163.69,0.1,1047.32,558.14,South,Online,489.18
+ORD01215,2025-08-26,Stationery,Notebook,1,115.52,0.15,98.19,72.56,North,In-store,25.63
+ORD01216,2025-05-13,Fitness,Resistance Band,4,642.25,0.1,2312.09,1282.61,North,Marketplace,1029.48
+ORD01217,2025-04-19,Stationery,Markers,1,133.88,0.1,120.49,81.23,Central,Marketplace,39.26
+ORD01218,2025-03-11,Home,Storage Box,3,776.36,0.05,2212.61,1491.79,South,Marketplace,720.82
+ORD01219,2025-07-21,Fitness,Shaker Bottle,2,734.65,0.0,1469.31,1017.85,East,Online,451.46
+ORD01220,2025-05-02,Stationery,Pen Set,5,487.22,0.0,2436.08,1338.11,Central,Online,1097.97
+ORD01221,2025-10-01,Home,Water Bottle,2,1122.55,0.05,2132.84,1373.07,West,Marketplace,759.77
+ORD01222,2025-02-16,Fitness,Yoga Mat,5,361.83,0.1,1628.22,1013.1,West,Online,615.12
+ORD01223,2025-04-29,Electronics,Headphones,1,2044.34,0.0,2044.34,1242.19,North,Marketplace,802.15
+ORD01224,2025-10-15,Electronics,Keyboard,5,1503.71,0.0,7518.57,4318.65,Central,Marketplace,3199.92
+ORD01225,2025-02-28,Home,Desk Lamp,4,895.34,0.05,3402.3,2221.16,West,In-store,1181.14
+ORD01226,2025-12-21,Fitness,Shaker Bottle,2,1174.08,0.1,2113.35,1198.64,South,In-store,914.71
+ORD01227,2025-03-15,Home,Desk Lamp,2,761.8,0.1,1371.25,789.03,East,Marketplace,582.22
+ORD01228,2025-02-23,Stationery,Pen Set,4,231.94,0.05,881.36,623.57,West,In-store,257.79
+ORD01229,2025-06-23,Stationery,Planner,5,243.09,0.05,1154.69,833.61,North,In-store,321.08
+ORD01230,2025-12-12,Electronics,Wireless Mouse,1,1996.49,0.15,1697.02,1307.06,North,Marketplace,389.96
+ORD01231,2025-08-08,Fitness,Skipping Rope,1,524.33,0.1,471.9,269.92,South,Online,201.98
+ORD01232,2025-09-25,Fitness,Resistance Band,5,823.73,0.15,3500.87,2008.18,Central,In-store,1492.69
+ORD01233,2025-12-27,Electronics,Headphones,3,2037.12,0.1,5500.21,2937.84,North,In-store,2562.37
+ORD01234,2025-11-14,Fitness,Resistance Band,5,1773.48,0.0,8867.38,5874.19,East,In-store,2993.19
+ORD01235,2025-10-27,Home,Desk Lamp,1,807.75,0.0,807.75,600.22,South,Online,207.53
+ORD01236,2025-11-02,Electronics,USB Hub,2,3220.43,0.1,5796.78,3887.5,South,In-store,1909.28
+ORD01237,2025-01-03,Fitness,Resistance Band,2,444.29,0.0,888.58,637.49,Central,Online,251.09
+ORD01238,2025-07-27,Stationery,Notebook,5,481.36,0.0,2406.78,1615.23,West,In-store,791.55
+ORD01239,2025-08-14,Home,Desk Lamp,1,1506.29,0.15,1280.35,669.73,South,Marketplace,610.62
+ORD01240,2025-05-05,Home,Desk Lamp,3,478.28,0.0,1434.83,881.03,North,Marketplace,553.8
+ORD01241,2025-01-31,Electronics,Wireless Mouse,3,2212.33,0.1,5973.29,3606.8,West,Online,2366.49
+ORD01242,2025-08-17,Stationery,Notebook,5,347.82,0.05,1652.15,1005.33,West,Online,646.82
+ORD01243,2025-02-07,Electronics,Keyboard,4,1698.67,0.1,6115.22,4151.07,East,Marketplace,1964.15
+ORD01244,2025-12-18,Fitness,Yoga Mat,3,977.91,0.1,2640.37,1814.95,South,Online,825.42
+ORD01245,2025-11-18,Electronics,USB Hub,3,2850.98,0.1,7697.63,4574.64,East,Marketplace,3122.99
+ORD01246,2025-02-02,Electronics,Wireless Mouse,4,836.66,0.0,3346.64,2489.53,Central,In-store,857.11
+ORD01247,2025-07-10,Fitness,Yoga Mat,4,1216.43,0.1,4379.16,2792.86,East,Marketplace,1586.3
+ORD01248,2025-03-06,Home,Cushion,2,332.97,0.15,566.05,329.53,East,Online,236.52
+ORD01249,2025-10-01,Electronics,Keyboard,3,2332.11,0.15,5946.89,4337.52,South,Marketplace,1609.37
+ORD01250,2025-10-14,Home,Storage Box,4,464.17,0.1,1671.03,870.4,West,In-store,800.63
+ORD01251,2025-07-30,Home,Cushion,4,220.42,0.15,749.43,505.11,Central,Marketplace,244.32
+ORD01252,2025-12-23,Home,Desk Lamp,4,1304.06,0.0,5216.25,3524.64,East,Marketplace,1691.61
+ORD01253,2025-05-04,Electronics,Headphones,1,1494.96,0.0,1494.96,941.9,East,Online,553.06
+ORD01254,2025-09-18,Electronics,Keyboard,3,2334.42,0.15,5952.78,4413.07,South,Marketplace,1539.71
+ORD01255,2025-12-27,Electronics,Keyboard,5,2939.99,0.05,13964.95,9954.22,West,Marketplace,4010.73
+ORD01256,2025-03-11,Stationery,Planner,5,384.08,0.15,1632.34,1183.47,South,In-store,448.87
+ORD01257,2025-03-19,Electronics,Keyboard,4,3155.53,0.05,11991.02,8490.31,East,In-store,3500.71
+ORD01258,2025-03-31,Electronics,Keyboard,3,1014.17,0.1,2738.25,1735.89,West,Marketplace,1002.36
+ORD01259,2025-06-07,Home,Desk Lamp,1,1375.23,0.0,1375.23,988.98,South,Online,386.25
+ORD01260,2025-10-03,Electronics,Keyboard,1,1200.1,0.0,1200.1,785.77,North,Online,414.33
+ORD01261,2025-10-16,Stationery,Planner,2,87.77,0.0,175.54,112.67,South,In-store,62.87
+ORD01262,2025-03-27,Home,Cushion,2,434.19,0.0,868.38,494.15,West,Marketplace,374.23
+ORD01263,2025-12-02,Stationery,Markers,5,206.65,0.15,878.24,470.31,East,In-store,407.93
+ORD01264,2025-07-09,Stationery,Markers,5,495.85,0.0,2479.24,1441.28,South,Marketplace,1037.96
+ORD01265,2025-04-26,Stationery,Notebook,3,451.09,0.05,1285.6,686.56,Central,Online,599.04
+ORD01266,2025-03-21,Stationery,Markers,5,188.48,0.1,848.15,576.31,West,Marketplace,271.84
+ORD01267,2025-10-25,Home,Storage Box,2,432.31,0.0,864.62,521.18,Central,In-store,343.44
+ORD01268,2025-09-21,Home,Storage Box,4,250.89,0.0,1003.56,553.49,North,Marketplace,450.07
+ORD01269,2025-12-09,Stationery,Planner,2,272.06,0.0,544.12,345.03,Central,Marketplace,199.09
+ORD01270,2025-11-28,Home,Storage Box,4,888.26,0.1,3197.74,2323.17,North,Online,874.57
+ORD01271,2025-11-01,Home,Storage Box,1,274.81,0.0,274.81,169.0,North,Online,105.81
+ORD01272,2025-06-06,Fitness,Shaker Bottle,3,1643.14,0.15,4190.02,2531.33,North,Marketplace,1658.69
+ORD01273,2025-08-10,Fitness,Yoga Mat,4,1183.4,0.1,4260.22,2478.98,South,Online,1781.24
+ORD01274,2025-05-23,Home,Desk Lamp,2,317.81,0.0,635.63,400.58,Central,In-store,235.05
+ORD01275,2025-03-14,Stationery,Notebook,4,87.54,0.0,350.17,223.48,East,Marketplace,126.69
+ORD01276,2025-08-19,Electronics,Headphones,5,1385.42,0.0,6927.09,4306.88,East,Marketplace,2620.21
+ORD01277,2025-01-12,Electronics,Headphones,5,3493.17,0.0,17465.87,13038.84,East,Online,4427.03
+ORD01278,2025-10-20,Home,Water Bottle,1,903.58,0.15,768.05,552.12,East,In-store,215.93
+ORD01279,2025-03-15,Stationery,Markers,5,66.04,0.15,280.69,160.34,East,In-store,120.35
+ORD01280,2025-10-27,Fitness,Yoga Mat,1,1552.34,0.1,1397.1,770.07,North,Marketplace,627.03
+ORD01281,2025-08-18,Electronics,Wireless Mouse,4,973.85,0.05,3700.64,2880.74,South,Online,819.9
+ORD01282,2025-11-04,Home,Storage Box,4,954.67,0.05,3627.74,2724.76,West,Online,902.98
+ORD01283,2025-06-29,Home,Water Bottle,2,1499.06,0.05,2848.22,1490.32,North,Online,1357.9
+ORD01284,2025-08-27,Electronics,Wireless Mouse,3,865.86,0.0,2597.59,1449.44,West,Online,1148.15
+ORD01285,2025-01-14,Home,Storage Box,4,1239.56,0.1,4462.4,3055.28,East,Online,1407.12
+ORD01286,2025-02-24,Home,Desk Lamp,2,230.28,0.05,437.54,235.51,West,In-store,202.03
+ORD01287,2025-07-04,Home,Desk Lamp,5,1195.97,0.1,5381.87,2891.43,South,In-store,2490.44
+ORD01288,2025-11-16,Home,Water Bottle,2,875.3,0.0,1750.6,1327.83,Central,Marketplace,422.77
+ORD01289,2025-04-11,Stationery,Planner,2,349.99,0.1,629.98,462.32,Central,In-store,167.66
+ORD01290,2025-09-12,Home,Storage Box,3,755.64,0.15,1926.88,1014.33,South,Online,912.55
+ORD01291,2025-05-24,Fitness,Skipping Rope,4,868.16,0.05,3299.01,2109.02,South,In-store,1189.99
+ORD01292,2025-07-05,Electronics,Headphones,1,968.37,0.0,968.37,573.64,North,Online,394.73
+ORD01293,2025-09-01,Stationery,Pen Set,3,284.44,0.0,853.32,654.64,Central,In-store,198.68
+ORD01294,2025-03-15,Stationery,Pen Set,1,472.32,0.1,425.09,300.23,East,Online,124.86
+ORD01295,2025-08-16,Stationery,Notebook,4,58.51,0.0,234.03,131.09,East,Marketplace,102.94
+ORD01296,2025-09-01,Home,Cushion,4,613.51,0.05,2331.34,1766.41,Central,In-store,564.93
+ORD01297,2025-07-05,Electronics,Wireless Mouse,3,2507.83,0.05,7147.32,5312.35,East,In-store,1834.97
+ORD01298,2025-05-13,Electronics,Keyboard,4,1661.0,0.0,6643.99,4424.13,West,Online,2219.86
+ORD01299,2025-02-07,Stationery,Pen Set,4,265.15,0.1,954.53,676.59,West,Marketplace,277.94
+ORD01300,2025-02-07,Fitness,Resistance Band,3,444.59,0.0,1333.76,1013.22,Central,Online,320.54
+ORD01301,2025-12-02,Fitness,Skipping Rope,3,885.39,0.2,2124.94,1236.6,Central,Online,888.34
+ORD01302,2025-07-13,Electronics,USB Hub,2,974.05,0.2,1558.48,896.86,South,In-store,661.62
+ORD01303,2025-07-22,Electronics,Keyboard,5,1033.02,0.0,5165.1,2789.92,Central,Online,2375.18
+ORD01304,2025-10-13,Electronics,USB Hub,1,1737.6,0.05,1650.72,938.92,South,In-store,711.8
+ORD01305,2025-01-02,Stationery,Planner,4,391.34,0.0,1565.35,967.1,South,In-store,598.25
+ORD01306,2025-08-05,Electronics,Keyboard,4,2498.81,0.2,7996.19,5668.07,East,In-store,2328.12
+ORD01307,2025-12-08,Electronics,USB Hub,4,2254.75,0.2,7215.19,4934.09,Central,In-store,2281.1
+ORD01308,2025-08-21,Electronics,USB Hub,5,994.33,0.0,4971.66,2890.06,West,Online,2081.6
+ORD01309,2025-12-21,Stationery,Notebook,5,159.66,0.0,798.32,617.34,West,Online,180.98
+ORD01310,2025-01-07,Electronics,Headphones,4,2110.82,0.05,8021.13,4642.32,North,In-store,3378.81
+ORD01311,2025-06-02,Electronics,Keyboard,4,2297.47,0.15,7811.41,5465.33,West,Marketplace,2346.08
+ORD01312,2025-03-25,Fitness,Shaker Bottle,1,1492.98,0.05,1418.33,783.81,Central,Online,634.52
+ORD01313,2025-09-15,Fitness,Shaker Bottle,4,540.78,0.1,1946.81,1121.45,South,Marketplace,825.36
+ORD01314,2025-09-09,Stationery,Notebook,2,484.39,0.15,823.47,566.52,Central,Online,256.95
+ORD01315,2025-12-24,Fitness,Shaker Bottle,3,1608.93,0.0,4826.8,2510.09,South,In-store,2316.71
+ORD01316,2025-08-23,Fitness,Resistance Band,4,570.27,0.0,2281.08,1622.73,East,Online,658.35
+ORD01317,2025-12-11,Electronics,Keyboard,5,2209.61,0.15,9390.84,6549.48,North,Marketplace,2841.36
+ORD01318,2025-09-14,Electronics,Wireless Mouse,1,2003.41,0.0,2003.41,1147.32,Central,In-store,856.09
+ORD01319,2025-09-20,Home,Storage Box,5,1115.82,0.0,5579.12,3852.6,North,Marketplace,1726.52
+ORD01320,2025-05-18,Home,Water Bottle,2,597.89,0.1,1076.2,798.68,South,In-store,277.52
+ORD01321,2025-05-28,Home,Water Bottle,3,941.25,0.15,2400.18,1372.66,North,Marketplace,1027.52
+ORD01322,2025-05-18,Home,Desk Lamp,1,883.19,0.0,883.19,528.59,West,In-store,354.6
+ORD01323,2025-10-13,Electronics,Headphones,2,1485.7,0.0,2971.39,1870.09,South,In-store,1101.3
+ORD01324,2025-09-05,Home,Cushion,1,1062.14,0.05,1009.03,635.5,North,Marketplace,373.53
+ORD01325,2025-06-01,Electronics,Wireless Mouse,3,937.59,0.1,2531.51,1533.12,North,In-store,998.39
+ORD01326,2025-10-09,Home,Desk Lamp,4,1413.33,0.1,5087.97,3634.31,West,Marketplace,1453.66
+ORD01327,2025-12-06,Home,Storage Box,4,1219.85,0.0,4879.4,2796.21,West,In-store,2083.19
+ORD01328,2025-04-25,Fitness,Shaker Bottle,1,402.39,0.1,362.15,203.24,Central,Marketplace,158.91
+ORD01329,2025-04-21,Home,Cushion,3,1576.58,0.15,4020.27,2700.99,Central,Marketplace,1319.28
+ORD01330,2025-04-10,Home,Storage Box,4,1218.48,0.2,3899.14,2472.91,South,Online,1426.23
+ORD01331,2025-08-09,Stationery,Planner,1,265.28,0.1,238.75,144.25,South,In-store,94.5
+ORD01332,2025-02-19,Fitness,Resistance Band,4,413.6,0.15,1406.23,769.07,South,In-store,637.16
+ORD01333,2025-08-27,Electronics,Wireless Mouse,3,1059.96,0.2,2543.91,1537.97,East,Online,1005.94
+ORD01334,2025-06-12,Electronics,Headphones,4,656.87,0.0,2627.5,1997.26,South,Online,630.24
+ORD01335,2025-11-20,Stationery,Markers,2,341.6,0.1,614.87,476.31,South,Marketplace,138.56
+ORD01336,2025-02-13,Electronics,Wireless Mouse,1,1863.01,0.1,1676.71,1003.19,Central,In-store,673.52
+ORD01337,2025-01-24,Fitness,Yoga Mat,2,1402.37,0.15,2384.02,1574.35,East,In-store,809.67
+ORD01338,2025-09-02,Stationery,Planner,3,148.65,0.0,445.96,261.33,North,In-store,184.63
+ORD01339,2025-08-06,Electronics,USB Hub,4,2015.33,0.1,7255.19,4523.94,South,Marketplace,2731.25
+ORD01340,2025-01-10,Electronics,Keyboard,4,3418.04,0.1,12304.96,7793.7,Central,In-store,4511.26
+ORD01341,2025-05-31,Fitness,Shaker Bottle,1,1790.81,0.0,1790.81,1371.17,South,Marketplace,419.64
+ORD01342,2025-03-04,Fitness,Shaker Bottle,5,326.32,0.15,1386.86,844.89,West,In-store,541.97
+ORD01343,2025-11-24,Home,Desk Lamp,5,982.7,0.15,4176.47,2425.66,South,In-store,1750.81
+ORD01344,2025-10-26,Home,Desk Lamp,3,770.53,0.0,2311.58,1266.62,West,Online,1044.96
+ORD01345,2025-11-18,Stationery,Pen Set,1,359.89,0.05,341.9,182.43,South,In-store,159.47
+ORD01346,2025-10-07,Home,Water Bottle,4,1216.07,0.1,4377.86,2658.82,East,Marketplace,1719.04
+ORD01347,2025-04-09,Stationery,Planner,4,108.12,0.0,432.5,246.67,West,Marketplace,185.83
+ORD01348,2025-07-23,Electronics,USB Hub,3,2392.16,0.0,7176.49,4918.04,North,Online,2258.45
+ORD01349,2025-11-16,Fitness,Yoga Mat,5,1260.82,0.0,6304.11,3713.42,South,In-store,2590.69
+ORD01350,2025-11-05,Fitness,Resistance Band,4,643.89,0.0,2575.58,1769.62,East,In-store,805.96
+ORD01351,2025-04-15,Fitness,Resistance Band,5,797.94,0.1,3590.75,1913.37,North,Marketplace,1677.38
+ORD01352,2025-12-07,Electronics,Keyboard,3,1329.37,0.05,3788.71,2886.03,West,Online,902.68
+ORD01353,2025-12-28,Electronics,Keyboard,3,1753.27,0.1,4733.83,3657.82,North,Online,1076.01
+ORD01354,2025-08-19,Fitness,Yoga Mat,2,1107.96,0.1,1994.33,1493.28,Central,Online,501.05
+ORD01355,2025-03-13,Electronics,Wireless Mouse,4,3141.39,0.0,12565.56,9479.37,North,Marketplace,3086.19
+ORD01356,2025-05-13,Stationery,Notebook,3,122.77,0.0,368.31,201.51,East,Marketplace,166.8
+ORD01357,2025-10-06,Home,Desk Lamp,5,1381.13,0.15,5869.78,3743.55,West,In-store,2126.23
+ORD01358,2025-02-13,Electronics,USB Hub,1,2355.72,0.15,2002.37,1223.45,North,Online,778.92
+ORD01359,2025-07-22,Stationery,Pen Set,4,449.06,0.1,1616.62,972.23,North,Online,644.39
+ORD01360,2025-04-16,Electronics,Headphones,5,3277.77,0.15,13930.53,8271.01,East,In-store,5659.52
+ORD01361,2025-12-21,Home,Water Bottle,5,446.63,0.1,2009.82,1076.75,,In-store,933.07
+ORD01362,2025-07-29,Home,Storage Box,2,1226.42,0.0,2452.84,1481.5,East,Marketplace,971.34
+ORD01363,2025-10-09,Home,Desk Lamp,4,1031.32,0.05,3919.0,2309.91,East,Online,1609.09
+ORD01364,2025-05-22,Fitness,Resistance Band,5,1666.06,0.0,8330.3,4904.38,South,In-store,3425.92
+ORD01365,2025-11-18,Fitness,Shaker Bottle,5,1428.82,0.05,6786.88,4820.56,East,Online,1966.32
+ORD01366,2025-05-15,Electronics,Wireless Mouse,4,638.91,0.0,2555.66,1375.15,Central,Marketplace,1180.51
+ORD01367,2025-05-02,Home,Water Bottle,1,463.92,0.1,417.53,259.94,West,Online,157.59
+ORD01368,2025-08-18,Electronics,USB Hub,1,1115.41,0.0,1115.41,812.79,East,In-store,302.62
+ORD01369,2025-12-16,Fitness,Yoga Mat,2,1326.45,0.15,2254.97,1455.58,East,Marketplace,799.39
+ORD01370,2025-06-05,Stationery,Planner,2,248.38,0.2,397.41,233.59,Central,Online,163.82
+ORD01371,2025-08-07,Electronics,USB Hub,4,,0.05,6915.01,4688.38,North,In-store,2226.63
+ORD01372,2025-05-15,Electronics,Wireless Mouse,3,1892.3,0.05,5393.07,2971.5,Central,Online,2421.57
+ORD01373,2025-04-20,Electronics,USB Hub,4,3290.42,0.2,10529.33,6757.1,North,Marketplace,3772.23
+ORD01374,2025-10-12,Fitness,Shaker Bottle,1,316.99,0.0,316.99,233.31,North,Online,83.68
+ORD01375,2025-12-03,Home,Storage Box,2,187.3,0.1,337.13,202.0,Central,Online,135.13
+ORD01376,2025-05-08,Fitness,Shaker Bottle,5,293.93,0.1,1322.66,915.1,Central,Online,407.56
+ORD01377,2025-12-05,Home,Cushion,2,1407.02,0.1,2532.64,1971.31,East,In-store,561.33
+ORD01378,2025-08-17,Electronics,Keyboard,4,1932.64,0.15,6570.99,4831.6,East,In-store,1739.39
+ORD01379,2025-03-20,Stationery,Markers,3,286.39,0.0,859.18,621.41,South,Marketplace,237.77
+ORD01380,2025-05-31,Electronics,Wireless Mouse,5,2639.63,0.0,13198.17,9609.56,West,Online,3588.61
+ORD01381,2025-05-18,Home,Desk Lamp,1,243.56,0.1,219.21,167.99,East,Marketplace,51.22
+ORD01382,2025-07-17,Electronics,Headphones,3,1625.17,0.1,4387.97,3009.82,North,,1378.15
+ORD01383,2025-05-17,Electronics,Headphones,4,2887.21,0.2,9239.07,5067.44,South,Online,4171.63
+ORD01384,2025-09-13,Fitness,Resistance Band,2,846.14,0.0,1692.27,1304.09,North,Online,388.18
+ORD01385,2025-06-21,Home,Desk Lamp,2,1276.25,0.2,2042.0,1494.44,East,In-store,547.56
+ORD01386,2025-01-13,Fitness,Resistance Band,4,445.14,0.0,1780.56,1217.12,West,Online,563.44
+ORD01387,2025-01-16,Home,Water Bottle,3,1589.0,0.05,4528.65,2506.93,North,Online,2021.72
+ORD01388,2025-03-27,Home,Storage Box,2,821.9,0.0,1643.8,1109.51,North,Online,534.29
+ORD01389,2025-08-31,Electronics,USB Hub,1,682.63,0.0,682.63,417.88,South,Marketplace,264.75
+ORD01390,2025-11-01,Fitness,Shaker Bottle,3,200.32,0.1,540.85,317.73,Central,In-store,223.12
+ORD01391,2025-08-29,Home,Cushion,2,927.87,0.05,1762.96,1142.97,South,Online,619.99
+ORD01392,2025-12-08,Electronics,USB Hub,5,2220.29,0.1,9991.33,6897.11,South,Online,3094.22
+ORD01393,2025-09-28,Stationery,Notebook,2,122.65,0.05,233.04,154.59,West,In-store,78.45
+ORD01394,2025-03-17,Stationery,Planner,5,148.55,0.0,742.77,446.65,Central,Marketplace,296.12
+ORD01395,2025-07-24,Electronics,Headphones,2,3258.24,0.0,6516.48,4678.83,North,In-store,1837.65
+ORD01396,2025-09-14,Electronics,Keyboard,5,498.97,0.15,2120.63,1301.88,West,Online,818.75
+ORD01397,2025-09-14,Electronics,Headphones,2,1055.04,0.05,2004.58,1449.8,South,In-store,554.78
+ORD01398,2025-03-22,Fitness,Shaker Bottle,4,1763.04,0.0,7052.15,4701.78,South,Online,2350.37
+ORD01399,2025-11-13,Electronics,Keyboard,5,1182.18,0.2,4728.73,3157.07,Central,In-store,1571.66
+ORD01400,2025-08-28,Home,Cushion,2,166.0,0.0,331.99,217.01,East,In-store,114.98
+ORD01401,2025-08-08,Stationery,Pen Set,5,325.28,0.2,1301.12,735.74,North,In-store,565.38
+ORD01402,2025-09-06,Stationery,Pen Set,3,120.51,0.0,361.53,219.24,East,Marketplace,142.29
+ORD01403,2025-06-01,Electronics,Wireless Mouse,1,518.07,0.1,466.27,352.55,South,Marketplace,113.72
+ORD01404,2025-04-06,Home,Water Bottle,4,811.63,0.05,3084.21,1694.45,Central,Marketplace,1389.76
+ORD01405,2025-08-18,Stationery,Notebook,1,68.4,0.0,68.4,50.65,Central,Online,17.75
+ORD01406,2025-09-22,Stationery,Markers,5,376.88,0.15,1601.73,1064.59,South,Online,537.14
+ORD01407,2025-11-02,Electronics,Keyboard,3,729.64,0.2,1751.14,1083.12,South,Marketplace,668.02
+ORD01408,2025-09-03,Home,Desk Lamp,1,189.65,0.1,170.68,130.28,West,Marketplace,40.4
+ORD01409,2025-05-01,Electronics,USB Hub,4,2868.85,0.0,11475.4,6039.74,West,Online,5435.66
+ORD01410,2025-11-06,Electronics,Keyboard,5,1961.83,0.15,8337.76,4565.26,North,Online,3772.5
+ORD01411,2025-02-13,Fitness,Yoga Mat,1,560.46,0.05,532.43,326.82,West,In-store,205.61
+ORD01412,2025-03-05,Home,Water Bottle,3,318.51,0.0,955.53,679.99,Central,Online,275.54
+ORD01413,2025-02-14,Electronics,USB Hub,2,3136.84,0.05,5960.0,4323.69,Central,Online,1636.31
+ORD01414,2025-05-06,Home,Storage Box,1,850.76,0.2,680.61,431.02,Central,In-store,249.59
+ORD01415,2025-03-17,Stationery,Planner,5,178.64,0.0,893.21,645.29,North,Online,247.92
+ORD01416,2025-05-28,Fitness,Resistance Band,1,,0.0,1615.77,1013.92,East,In-store,601.85
+ORD01417,2025-04-13,Home,Desk Lamp,3,975.1,0.1,2632.77,1698.93,North,Online,933.84
+ORD01418,2025-04-07,Home,Desk Lamp,4,261.31,0.0,1045.24,610.26,West,In-store,434.98
+ORD01419,2025-03-02,Stationery,Planner,1,312.69,0.1,281.42,201.65,Central,In-store,79.77
+ORD01420,2025-04-07,Electronics,Keyboard,5,901.9,0.0,4509.51,2957.72,North,Marketplace,1551.79
+ORD01421,2025-06-16,Electronics,Wireless Mouse,4,2961.24,0.0,11844.98,7471.71,North,Marketplace,4373.27
+ORD01422,2025-04-23,Fitness,Shaker Bottle,4,1261.79,0.0,5047.16,3650.68,East,Online,1396.48
+ORD01423,2025-08-04,Fitness,Resistance Band,2,521.56,0.15,886.66,539.48,North,Online,347.18
+ORD01424,2025-08-11,Stationery,Pen Set,3,142.91,0.0,428.72,304.97,East,Online,123.75
+ORD01425,2025-02-26,Stationery,Markers,3,133.34,0.1,360.02,230.05,West,Online,129.97
+ORD01426,2025-11-26,Electronics,USB Hub,5,781.52,0.0,3907.59,2848.46,,Marketplace,1059.13
+ORD01427,2025-11-12,Electronics,Wireless Mouse,2,1300.89,0.2,2081.42,1584.17,North,In-store,497.25
+ORD01428,2025-11-08,Fitness,Shaker Bottle,4,1470.43,0.05,5587.62,3876.65,Central,Marketplace,1710.97
+ORD01429,2025-05-24,Home,Water Bottle,1,1413.02,0.2,1130.42,787.88,East,Marketplace,342.54
+ORD01430,2025-12-26,Home,Cushion,1,556.79,0.1,501.11,343.87,West,In-store,157.24
+ORD01431,2025-11-23,Fitness,Resistance Band,3,267.35,0.1,721.85,495.96,North,In-store,225.89
+ORD01432,2025-04-29,Home,Cushion,5,647.89,0.0,3239.44,2040.64,South,Online,1198.8
+ORD01433,2025-03-28,Electronics,USB Hub,4,484.8,0.2,1551.36,1003.01,West,Online,548.35
+ORD01434,2025-02-17,Fitness,Shaker Bottle,1,1333.11,0.1,1199.8,796.26,Central,Marketplace,403.54
+ORD01435,2025-04-03,Fitness,Skipping Rope,1,1628.58,0.05,1547.15,870.68,Central,Online,676.47
+ORD01436,2025-10-02,Electronics,USB Hub,3,1105.79,0.0,3317.38,1837.74,South,Marketplace,1479.64
+ORD01437,2025-07-18,Home,Desk Lamp,1,1302.17,0.0,1302.17,832.23,West,In-store,469.94
+ORD01438,2025-05-20,Electronics,Keyboard,1,1466.81,0.1,1320.13,728.04,Central,In-store,592.09
+ORD01439,2025-01-16,Home,Cushion,5,1283.99,0.2,5135.96,3505.39,West,In-store,1630.57
+ORD01440,2025-03-18,Fitness,Skipping Rope,3,984.24,0.0,2952.73,1947.88,Central,Online,1004.85
+ORD01441,2025-04-29,Electronics,Wireless Mouse,1,535.14,0.1,481.63,290.95,South,Online,190.68
+ORD01442,2025-09-09,Electronics,Keyboard,3,787.61,0.0,2362.82,1441.81,East,Online,921.01
+ORD01443,2025-07-23,Electronics,Wireless Mouse,5,1382.02,0.15,5873.6,3148.31,East,Marketplace,2725.29
+ORD01444,2025-03-15,Electronics,USB Hub,4,2281.42,0.0,9125.67,6267.17,Central,Online,2858.5
+ORD01445,2025-11-15,Stationery,Notebook,1,353.59,0.15,300.55,233.83,East,Marketplace,66.72
+ORD01446,2025-11-27,Electronics,Headphones,1,2328.02,0.15,1978.81,1444.64,West,In-store,534.17
+ORD01447,2025-10-10,Home,Desk Lamp,5,938.3,0.1,4222.34,2802.91,Central,Online,1419.43
+ORD01448,2025-03-03,Home,Cushion,4,1050.07,0.0,4200.29,2498.03,North,Marketplace,1702.26
+ORD01449,2025-04-18,Fitness,Resistance Band,3,1031.31,0.0,3093.93,1860.33,West,In-store,1233.6
+ORD01450,2025-05-18,Stationery,Planner,1,477.54,0.1,429.79,281.92,West,Marketplace,147.87
+ORD01451,2025-07-09,Home,Water Bottle,3,383.39,0.2,920.13,651.05,North,Online,269.08
+ORD01452,2025-07-24,Stationery,Markers,4,329.06,0.15,1118.82,658.11,South,In-store,460.71
+ORD01453,2025-05-09,Electronics,Headphones,4,597.45,0.0,2389.8,1722.09,North,Online,667.71
+ORD01454,2025-01-09,Stationery,Planner,3,320.17,0.0,960.52,675.07,Central,Marketplace,285.45
+ORD01455,2025-01-14,Stationery,Markers,3,425.62,0.15,1085.32,845.57,Central,Marketplace,239.75
+ORD01456,2025-02-04,Fitness,Resistance Band,1,859.6,0.0,859.6,498.68,Central,Online,360.92
+ORD01457,2025-11-14,Home,Cushion,5,1293.92,0.1,5822.65,3797.52,North,Marketplace,2025.13
+ORD01458,2025-08-12,Stationery,Planner,1,390.25,0.15,331.71,193.61,Central,In-store,138.1
+ORD01459,2025-03-16,Home,Storage Box,2,419.12,0.0,838.23,546.61,Central,Online,291.62
+ORD01460,2025-06-12,Fitness,Resistance Band,1,1178.39,0.15,1001.64,556.12,Central,Marketplace,445.52
+ORD01461,2025-02-28,Home,Desk Lamp,3,1449.63,0.0,4348.89,2568.5,West,Online,1780.39
+ORD01462,2025-03-13,Stationery,Pen Set,5,271.66,0.2,1086.65,819.3,South,Marketplace,267.35
+ORD01463,2025-06-20,Electronics,Headphones,5,3172.39,0.15,13482.65,8372.91,South,Marketplace,5109.74
+ORD01464,2025-05-02,Home,Desk Lamp,4,1089.2,0.2,3485.44,2185.51,East,In-store,1299.93
+ORD01465,2025-10-03,Home,Cushion,2,170.18,0.2,272.29,186.06,North,Online,86.23
+ORD01466,2025-12-14,Home,Storage Box,1,885.17,0.1,796.65,520.71,Central,In-store,275.94
+ORD01467,2025-06-10,Home,Water Bottle,4,1379.87,0.05,5243.5,3766.31,East,In-store,1477.19
+ORD01468,2025-09-10,Home,Cushion,3,1265.16,0.0,3795.47,2031.04,East,Marketplace,1764.43
+ORD01469,2025-10-31,Fitness,Shaker Bottle,1,1461.08,0.2,1168.86,861.07,Central,In-store,307.79
+ORD01470,2025-05-23,Electronics,Headphones,2,2743.23,0.15,4663.49,3011.53,West,Marketplace,1651.96
+ORD01471,2025-04-05,Fitness,Skipping Rope,3,1511.88,0.0,4535.64,2387.0,East,Marketplace,2148.64
+ORD01472,2025-04-06,Fitness,Yoga Mat,1,1159.38,0.0,1159.38,846.22,,Marketplace,313.16
+ORD01473,2025-01-09,Fitness,Skipping Rope,2,554.38,0.1,997.89,519.08,East,Marketplace,478.81
+ORD01474,2025-03-31,Home,Desk Lamp,4,809.27,0.1,2913.37,2053.6,South,Marketplace,859.77
+ORD01475,2025-04-27,Electronics,Wireless Mouse,1,2989.68,0.1,2690.71,2024.79,East,In-store,665.92
+ORD01476,2025-10-18,Fitness,Skipping Rope,4,787.3,0.15,2676.83,1880.18,North,Online,796.65
+ORD01477,2025-02-05,Stationery,Markers,2,279.95,0.1,503.91,360.71,South,In-store,143.2
+ORD01478,2025-06-24,Electronics,Headphones,5,2228.48,0.15,9471.02,5691.06,North,In-store,3779.96
+ORD01479,2025-02-22,Fitness,Shaker Bottle,4,1788.7,0.2,5723.84,3616.58,North,Marketplace,2107.26
+ORD01480,2025-12-14,Fitness,Resistance Band,3,1028.13,0.05,2930.18,1617.38,Central,Online,1312.8
+ORD01481,2025-03-27,Electronics,USB Hub,2,2749.05,0.2,4398.48,3152.31,West,In-store,1246.17
+ORD01482,2025-09-09,Stationery,Planner,1,252.29,0.0,252.29,154.49,West,In-store,97.8
+ORD01483,2025-01-22,Stationery,Planner,3,213.05,0.0,639.15,333.68,North,In-store,305.47
+ORD01484,2025-06-30,Electronics,Keyboard,2,2201.33,0.05,4182.52,3037.76,North,Online,1144.76
+ORD01485,2025-04-10,Fitness,Shaker Bottle,3,1786.34,0.15,4555.16,2748.47,West,In-store,1806.69
+ORD01486,2025-09-12,Home,Water Bottle,1,786.84,0.05,747.5,400.95,East,Marketplace,346.55
+ORD01487,2025-06-29,Electronics,USB Hub,4,1283.33,0.1,4619.97,3172.22,Central,Marketplace,1447.75
+ORD01488,2025-11-26,Stationery,Pen Set,2,480.48,0.1,864.86,612.1,West,In-store,252.76
+ORD01489,2025-05-28,Stationery,Pen Set,5,272.87,0.1,1227.9,891.49,East,Marketplace,336.41
+ORD01490,2025-11-30,Home,Cushion,2,1314.58,0.2,2103.33,1121.56,Central,In-store,981.77
+ORD01491,2025-07-14,Stationery,Planner,4,475.66,0.1,1712.38,1267.85,West,Marketplace,444.53
+ORD01492,2025-07-21,Home,Water Bottle,5,938.17,0.0,4690.86,3190.66,East,In-store,1500.2
+ORD01493,2025-05-30,Electronics,Keyboard,3,2123.13,0.05,6050.93,4464.78,East,Marketplace,1586.15
+ORD01494,2025-02-26,Fitness,Resistance Band,3,1537.19,0.0,4611.58,3347.68,South,Marketplace,1263.9
+ORD01495,2025-08-18,Fitness,Shaker Bottle,5,1698.11,0.1,7641.5,5043.98,Central,Marketplace,2597.52
+ORD01496,2025-11-19,Stationery,Markers,1,484.19,0.0,484.19,351.73,West,In-store,132.46
+ORD01497,2025-05-13,Electronics,USB Hub,2,1438.38,0.1,2589.09,1355.46,East,In-store,1233.63
+ORD01498,2025-12-15,Fitness,Resistance Band,2,721.15,0.15,1225.96,752.28,Central,Marketplace,473.68
+ORD01499,2025-12-15,Electronics,Keyboard,4,1065.19,0.1,3834.69,2627.18,North,In-store,1207.51
+ORD01500,2025-10-27,Electronics,Wireless Mouse,3,1172.4,0.05,3341.34,1741.23,North,In-store,1600.11
+ORD00011,2025-10-06,Stationery,Planner,2,482.47,0.1,868.45,511.63,Central,Online,356.82
+ORD00026,2025-02-09,Electronics,USB Hub,4,2979.76,0.1,10727.13,7998.28,West,In-store,2728.85
+ORD00041,2025-06-04,Home,Cushion,5,845.09,0.1,3802.89,2918.0,North,Online,884.89
